@@ -1,0 +1,270 @@
+**PDP EcoSystem Overview**
+
+The text provides a comprehensive overview of the PDP EcoSystem, founded by Odilbek Mirzayev in Uzbekistan, focusing on modern education and IT training. It details the ecosystem’s components, leadership, programs, and operational structure:
+
+1. **Components**:
+   - **PDP Academy**: IT education center offering programming courses (Frontend, Backend, Flutter, etc.), with over 870 students trained in 6 years.
+   - **PDP University**: Pearson BTEC-recognized institution training over 1,000 students in IT (AI, Software Engineering, Data Analytics) and business.
+   - **PDP School**: Tashkent’s first IT school for preschool to secondary students, training over 450 in programming and robotics.
+   - **PDP Junior**: IT and critical thinking programs for ages 8–17, with over 200 students trained in 5 years.
+   - **PDP Online**: Online platform with interactive lessons, exams, and certifications, serving over 400 students.
+
+2. **Leadership**: Led by founder Odilbek Mirzayev (CVO) and Rector Jiemurat Mambetkarimov, with key staff managing operations, HR, finance, and marketing.
+
+3. **Unicorn 3.0 Grant**: Supports low-income students with $3.42M funding (2022–2024), free education ($2,900/student), accommodation, meals, and 42% job placement.
+
+4. **History**: Founded in 2017, expanded to PDP University in 2022, with milestones in online learning, bootcamps, and outsourcing.
+
+5. **Mission & Vision**: Train specialists to enhance the world via digital technologies; aim to be Central Asia’s leading IT university.
+
+6. **Values & Standards**: Excellence, innovation, inclusivity, integrity, collaboration; student-centric, practical, and globally-minded approaches.
+
+7. **Academic Year (2024–2025)**: Spans September 23, 2024–June 29, 2025, with 33 study weeks, 6 exam weeks, and structured semesters.
+
+8. **Programs**: Foundation Stage, Ordinary Degree, HNC (Level 4), HND (Level 5), and Bachelor’s degrees in IT and business specializations.
+
+9. **Teaching & Assessment**: Practical, project-based learning; flexible BTEC structure; task-based assessments (Pass, Merit, Distinction); strict anti-plagiarism policies using tools like Turnitin.
+
+10. **Submission Processes**: Include submission, resubmission, retake, and remodule options with clear deadlines and criteria.
+
+11. **Plagiarism Policy**: Defines types (full, paraphrasing, self-plagiarism, etc.), enforces penalties (warnings, rejection, fines, expulsion), and promotes integrity through education and tools.
+
+The ecosystem operates in Tashkent, Uzbekistan, emphasizing employability, innovation, and global IT competitiveness.
+
+**Founder: Odilbek Mirzayev**
+- Role: Entrepreneur, Investor, Developer, Visionary
+- Description: Odilbek Mirzayev is the founder of PDP EcoSystem, a key figure in Uzbekistan’s education and IT sectors. The ecosystem focuses on modern education and training leading professionals through various initiatives.
+
+**PDP EcoSystem Components**
+1. **PDP Academy**
+   - Description: An IT education center providing high-quality courses in modern technologies.
+   - Programs:
+     - Programming languages: Frontend, Backend, Flutter, C#, Java, Python
+     - Foundation stage for beginners
+     - Online and offline learning options
+   - Achievements: Over 870 students trained; 6 years of delivering professional knowledge, experience, projects, and events.
+2. **PDP University**
+   - Description: A university focused on training highly qualified professionals, officially recognized as a Pearson BTEC International Education Center.
+   - Programs:
+     - IT specializations: AI, Software Engineering, Data Analytics, Business Analytics
+     - Business education: Management, finance, marketing, business processes
+     - Innovation and entrepreneurship: Skills for creating and managing businesses
+     - Comprehensive training from first to final year
+   - Achievements: Over 1,000 students trained.
+3. **PDP School**
+   - Description: An educational institution preparing students from preschool to secondary education with a focus on modern professions. The first IT school in Tashkent.
+   - Programs:
+     - Early education: Basic knowledge and skills for young children
+     - Technology integration: Introductory courses in programming and robotics
+     - Creative development: Arts, music, and sports
+     - Academic preparation: Support for secondary education
+   - Achievements: Over 450 students trained.
+4. **PDP Junior**
+   - Description: Supports young learners (ages 8–17) in developing IT and critical thinking skills, assisting in creating small applications and games.
+   - Programs:
+     - Programming: Beginner courses (Scratch, Python, etc.)
+     - Robotics: Building and programming robots
+     - Technology introduction: Learning modern technologies
+     - Creative and practical activities: Game-based skill development
+   - Achievements: Over 200 students trained; 5 years of operation.
+5. **PDP Online**
+   - Description: An online learning platform allowing students to study anytime, anywhere.
+   - Features:
+     - Interactive video lessons and practical exercises
+     - Online exams and certifications
+     - Personalized progress tracking and support
+   - Achievements: Over 400 students trained.
+
+**PDP University Leadership**
+- **Rector: Jiemurat Mambetkarimov**
+  - Role: Leads PDP University, a modern institution focused on training highly qualified professionals.
+  - Contributions: Promotes innovative educational approaches, implements Pearson BTEC global standards, and fosters IT and technology leadership in Uzbekistan and the region.
+
+**Key Staff**
+1. Odilbek Mirzayev: Founder and CVO, PDP EcoSystem
+2. Jiemurat Mambetkarimov: Rector, PDP University
+3. Nusratulla Sadullayevich Haytbayev: Head of Supply and Maintenance Department
+4. Khojimuhammad Rustamovich Nusratov: HR Director
+5. Obidjon Soyibjonovich Akhmedov: Head of Talent Development Department
+6. Ismoiljon Maxmudovich Matkosimov: Vice-Rector for Administrative Affairs
+7. Sherzod Shaydullayevich Raxmatov: Chief Financial Officer
+8. Temurbek Ulug’bek o’g’li Nuriddinov: COO
+9. Abbosjon Xursanali o’g’li Alijonov: Executive Assistant and Office Manager
+10. Boburjon O’ktamovich Jo’rayev: CEO, PDP Junior
+11. To’lqin Zafarovich Xalilov: CEO, PDP Academy
+12. Alisher Baxtiyarovich Davlatov: Head of Professional Development Department
+13. Kamoliddin Kadirovich Xaitbayev: Head of Youth Policy Department
+14. Shaxzod Hamza o’g’li Xaydarov: Chief Marketing Officer
+15. Noila Ilashevna Madumarova: Deputy Director
+16. Shoxrux Xamidullayevich Syadaliyev: Chief Sales Officer
+
+**Location**
+- Country: Uzbekistan
+- City: Tashkent
+- Address: 12/1, Yangi Sergeli Road, 100000, Tashkent, Uzbekistan
+- Website: https://university.pdp.uz/
+
+**Unicorn 3.0 Grant**
+- Purpose: Supports talented students from low-income families with education, accommodation, and job opportunities.
+- Components:
+  - Funding: $2,220,000 (2022), $300,000 (2023), $900,000 (2024)
+  - Free Accommodation: 1 year for grant recipients
+  - Education Grants: $2,900 per student
+  - Materials: Based on Pearson BTEC international standards
+  - Job Placement: 42% of students formally employed (83 out of 280 second-year students)
+  - Meals: Three meals daily for grant recipients
+- Sponsors: Balloon, Alexor, Megavan, Union, Paper and Board, Megamotors, Sifco International, Alfaruq, Kepa SureMaker
+
+**History of PDP**
+- 2017: Founded as Personal Development Process, an IT education center; first 300 students graduated.
+- 2019: New center opened for 600 students; introduced bootcamp courses for intensive programmer training.
+- 2020: Launched PDP Online, enabling global access to programming education for Uzbek-speaking learners.
+- 2021: Opened a center for 3,000 students; established outsourcing and recruiting companies for programmer employment.
+- 2022: Launched PDP University, a full-fledged IT university focused on advanced professional training.
+
+**Mission and Vision**
+- **Mission**: Train specialists to improve the world through digital technologies.
+- **Vision**: Become a leading university in Central Asia for digital technologies.
+
+**Core Values**
+1. Excellence in Education: Deliver globally competitive IT education.
+2. Innovation and Adaptability: Innovate teaching methods and adapt to technology trends.
+3. Community and Inclusivity: Support diverse students, including Uzbek-speaking learners worldwide.
+4. Integrity and Responsibility: Uphold ethical standards and ensure quality education.
+5. Collaboration and Impact: Partner with companies for practical learning and career opportunities.
+
+**Behavioral Standards**
+1. Student-Centric Approach: Provide personalized mentorship and support.
+2. Commitment to Lifelong Learning: Promote continuous learning for students and staff.
+3. Professionalism and Respect: Maintain professionalism and mutual respect.
+4. Emphasis on Practical Skills: Prioritize hands-on training and problem-solving.
+5. Global Mindset: Equip students for international IT environments.
+
+**Academic Year 2024–2025**
+- **First Semester**:
+  - Start: September 23
+  - Orientation Week: September 23–29
+  - Study Weeks: September 30–December 8 (10 weeks)
+  - Exam Weeks: December 9–22 (2 weeks)
+  - Vacation: December 23–January 5 (2 weeks)
+- **Second Semester**:
+  - Start: January 6
+  - Study Weeks: January 6–March 30 (12 weeks)
+  - Exam Week: March 31–April 6 (1 week)
+  - Choosing Week: April 7–13 (1 week)
+  - Study Weeks: April 14–May 25 (6 weeks)
+  - Exam Weeks: June 2–15 (2 weeks)
+  - Retake Weeks: June 16–29 (2 weeks)
+- **Summary**:
+  - Study Weeks: 33
+  - Orientation Week: 1
+  - Exam Weeks: 6
+  - Choosing Week: 1
+  - Vacation: 2
+- Duration: September 23, 2024–June 29, 2025
+
+**Educational Programs**
+1. **Foundation Stage**
+   - Description: A one-year, two-semester course preparing students for higher education in IT, covering 7 subjects. The certificate is recognized by PDP University and over 70 local and international universities.
+2. **Ordinary Degree**
+   - Description: A three-year bachelor’s program (300 credits) without additional academic or practical requirements of an Honours Degree.
+   - Purpose: Faster completion, lower requirements, flexibility.
+   - Structure: Includes IT infrastructure, programming, data management.
+   - Benefits: Quick degree, employability, pathway to Honours or Master’s degrees.
+3. **HNC (Higher National Certificate)**
+   - Description: A one-year program (120 credits, Level 4) equivalent to the first year of a bachelor’s degree.
+   - Modules: Computer technology basics, IT system management, digital analysis, introductory web programming.
+   - Career Opportunities: Assistant IT technician, programming/technical support specialist, network/system engineer assistant.
+   - Progression: Pathway to HND’s second year.
+4. **HND (Higher National Diploma)**
+   - Description: A two-year full-time or three-year part-time program (240 credits, Level 5) equivalent to the first two years of a bachelor’s degree.
+   - Modules: Network infrastructure, programming (Python, Java), database management, web programming, cybersecurity.
+   - Career Opportunities: IT specialist, database manager, technical support, network manager.
+   - Progression: Pathway to the final year of a bachelor’s degree (Honours).
+5. **Undergraduate (Bachelor’s Degree)**
+   - Duration: 3 years
+   - Specializations: Software Development and Programming, Data Analytics, Artificial Intelligence Solutions and Applications, Business Analytics and Change Management
+   - Outcome: Deep knowledge and practical skills for professional application.
+
+**Teaching Methods**
+1. Practical and Project-Based Approach: Real-world project work in IT, AI, big data, cloud networks, and cybersecurity.
+2. Flexibility: BTEC’s adaptable structure allows students to choose preferred specializations; full-time, short-term, or remote learning options.
+3. Integrated Curriculum: Combines practical, technical, and business skills, fostering teamwork, problem-solving, and leadership.
+4. Career Development: Support for employment, international certifications, and professional growth.
+5. Unique Approaches: Practical training, work-integrated learning, access to BTEC’s HN Global platform.
+
+**Assessment Principles**
+- **Internal Assessment**:
+  - Focus: Combines theoretical knowledge with practical skills.
+  - Standards: Aligns with national and international benchmarks.
+  - Design: Engaging, modern, and tailored to student abilities.
+  - Transparency: Clear criteria shared in advance.
+- **Task-Based Assessment**:
+  - Format: Practical or written, individual or group tasks.
+  - Process: Tasks include deadlines, requirements, and clear criteria.
+- **Assessment Criteria**:
+  - Pass: Meets basic requirements.
+  - Merit: Exceeds basic requirements with high performance.
+  - Distinction: Exceptional performance across all criteria.
+  - Unclassified: Failure to meet criteria.
+- **Assessment Team**:
+  - Program Leader: Manages and standardizes assessment.
+  - Internal Verifier: Ensures fair evaluation.
+  - Assessors: Design tasks and assign grades.
+- **Organization**: Clear schedules and support systems for timely task completion.
+- **Student Preparation**: Training on assessment processes, plagiarism, and academic integrity; students sign a declaration of independent work.
+- **Fair Assessment**:
+  - Independent Work: Verified for originality; plagiarism results in penalties.
+  - Late Submissions: Evaluated with penalties and feedback provided.
+
+**Submission Process**
+1. **First submission**:
+   - Description: Submitting assignments by the deadline to the assessor.
+   - Requirements: High-quality work, plagiarism-free, meets assessment criteria.
+   - Considerations: Follow assessor guidelines, use required formats (e.g., PDF, Word), include supporting materials.
+2. **Resubmission**:
+   - Description: One-time opportunity to revise and resubmit if initial submission fails.
+   - Conditions: Requires assessor approval; feedback provided; new deadline set.
+3. **Retake**:
+   - Description: Relearning and reassessment if resubmission fails.
+   - Conditions: New task assigned; evaluated for Pass only; approved by Program Manager; allowed for valid reasons (e.g., health issues).
+4. **Remodule**:
+   - Description: Repeating the entire module if retake fails.
+   - Conditions: Requires full reassessment; incurs additional fees; takes up to one year.
+- **Summary Table**:
+  - Submission: Submit on time; full criteria; set deadline.
+  - Resubmission: One chance; original criteria; new deadline.
+  - Retake: New task; Pass only; set deadline.
+  - Remodule: Full module repeat; original criteria; up to 1 year.
+
+**Plagiarism**
+- **Definition**: Presenting others’ ideas, texts, or work as one’s own without proper attribution.
+- **Types**:
+  - Full Plagiarism: Copying entire work.
+  - Paraphrasing Plagiarism: Rewriting without citing the source.
+  - Self-Plagiarism: Reusing own previous work.
+  - Incorrect Citation: Failing to properly cite sources.
+  - Collaborative Plagiarism: Submitting group work as individual effort.
+- **Consequences**:
+  - Academic Penalties: Work rejected, low grades.
+  - Reputation Damage: Impacts future opportunities.
+  - Legal Issues: Potential copyright violations.
+
+**Anti-Plagiarism Policy**
+- **Purpose**: Ensures honest, independent work.
+- **Components**:
+  - Education: Informing students about plagiarism risks.
+  - Tools: Use of Turnitin, Copyscape, Grammarly Premium, Quetext.
+  - Citation Training: APA, MLA, Harvard formats.
+  - Pre-Submission Checks: Students can verify work for plagiarism.
+  - Academic Integrity Code: Mandatory compliance.
+- **Penalties**:
+  - Warning: First offense.
+  - Rejection: Plagiarized work not accepted; resubmission required.
+  - Fines: Additional fees for resubmission.
+  - Expulsion: Repeated or severe violations.
+- **Importance**:
+  - Promotes independent thinking.
+  - Upholds academic integrity.
+  - Enhances program reputation.
+  - Prepares students for ethical professional conduct.

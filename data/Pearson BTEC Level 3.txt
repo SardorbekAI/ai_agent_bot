@@ -1,0 +1,1850 @@
+**Pearson BTEC International Level 3 Qualifications in Information Technology**
+
+**About Pearson**
+- World’s leading learning company, operating globally.
+- Provides content, assessment, and digital services to learners, educational institutions, employers, governments, and partners.
+- Committed to equipping learners with skills for employability and success in a changing work environment.
+- All information in this specification is accurate as of publication (Issue 4, March 2024).
+
+**Welcome**
+- BTEC International Level 3 qualifications have a 40-year track record of learner success, recognized by governments, industry, and higher education.
+- Designed for workplace progression or further study, accepted by UK and international universities.
+- Learner-centered, with a flexible, unit-based structure and project-based assessments.
+- Focus on practical, interpersonal, and thinking skills for employment and higher education.
+- Developed with employers, higher education providers, colleges, and schools to meet industry needs.
+- Offers a range of qualification sizes to suit diverse study programs and progression plans.
+- Content aligns with employer and higher education needs, with assessments balancing local and standardized requirements.
+- Comprehensive support provided through resources and staff (see Section 10).
+
+**Summary of Changes (Issue 4)**
+- Added job descriptions and HN progression routes (Page 10).
+- Included sustainable elements aligning with Sustainable Development Goals (Pages 35, 54, 129, 175, 311).
+- Updated terminology/content for global editorial policy and cultural sensitivity (Pages 35, 54, 67, 155, 199, 227, 242, 301, 340).
+- Revised IT terminology/practice (Pages 29, 56, 90, 99, 111, 127, 191, 260, 311).
+- Corrected errors (Pages 50, 67, 68, 92, 247, 350).
+- Added sustainability appendix emphasizing quality education, decent work, economic growth, and reduced inequalities (Page 386).
+- Contact for further information: qualifications.pearson.com/en/support/contact-us.html.
+
+**Microsoft Collaboration**
+- Developed with Microsoft to align with certified learning opportunities.
+- **Microsoft Fundamentals Certifications**:
+  - Provide skills in digital and cloud businesses.
+  - Cover Microsoft Azure Data Fundamentals (DP-900) and Azure Fundamentals (AZ-900).
+  - Units partially aligning: Unit 1 (IT Systems), Unit 10 (Big Data), Unit 15 (Cloud Storage).
+- **Microsoft Computer Science Curriculum**:
+  - Maps units to embed computer science concepts.
+  - Units: 21 (AI), 22 (Robotics), 23 (Emerging Trends), 24 (Technical Fundamentals), 25 (Full Stack Development).
+- Further details in Appendices 1 and 2.
+
+**Qualifications, Sizes, and Purposes**
+1. **Certificate (180 GLH, 0.5 International A Level)**:
+   - Basic introduction to IT alongside other fields.
+   - One mandatory unit (Pearson Set Assignment, 66.7% content).
+   - One optional unit (60 GLH).
+   - Progression to higher education or employment, not necessarily in IT.
+2. **Subsidiary Diploma (360 GLH, 1 International A Level)**:
+   - Broad IT study, creating systems to manage/share information.
+   - Two mandatory units (Pearson Set Assignment, 50% content).
+   - Optional units (180 GLH).
+   - Progression to higher education or employment.
+3. **Foundation Diploma (540 GLH, 1.5 International A Levels)**:
+   - One-year, full-time course covering IT fundamentals.
+   - Two mandatory units (Pearson Set Assignment, 33% content).
+   - Optional units (360 GLH).
+   - Progression to work-based learning, further Level 3 study, higher education, or employment.
+4. **Diploma (720 GLH, 2 International A Levels)**:
+   - Main focus on IT with complementary study.
+   - Two mandatory units (Pearson Set Assignment, 25% content).
+   - Optional units (540 GLH).
+   - Two-year, part-time study.
+5. **Extended Diploma (1080 GLH, 3 International A Levels)**:
+   - Two-year, full-time course meeting entry requirements for IT-related higher education (e.g., HND in Computing).
+   - Three mandatory units (Pearson Set Assignment,  - Optional units (780 GLH). 27.78% content).
+   - Leads to Level 3 IT roles or higher education.
+
+**Unit Structure**
+- **Certificate**:
+  - Mandatory: Unit 1 (120 GLH, Set Assignment).
+  - Optional (choose one): Units 5, 7, 8, 10, 12-25 (60 GLH).
+- **Subsidiary Diploma**:
+  - Mandatory: Units 1 (120 GLH), Unit 6 (60 GLH).
+  - Optional (180 GLH): Units 2-5 (2, 3, 4, 9, 90 GLH; Units 7, 8, 10-25, 60 GLH).
+- **Foundation Diploma**:
+  - Mandatory: Units 1, 120 GLH; Unit 6, 60 GLH).
+  - Optional (360 GLH): Units 2-4, 9 (90 GLH); Units 5, 7, 8, 10-25 (60 GLH).
+- **Diploma**:
+  - Mandatory: Units 1 (120 GLH), Unit 6 (60 GLH).
+  - Optional (540 GLH): Units 2-4, 9 (90 GLH); Units 5, 7, 8, 10-25 (60 GLH).
+- **Extended Diploma**:
+  - Mandatory: Units 1, 120 GLH; Unit 6, 60 GLH; Unit 11, 120 GLH).
+  - Optional (780 GLH): Units 2-4, 2, 3, 4, 90 GLH); Units 5, 7, 8, 10-25, 60 (60 GLH).
+
+**Units**
+- **Unit 1: Information Technology Systems – Strategy, Management, and Infrastructure** (120 GLH, Mandatory, Set Assignment):
+  - **Brief**: Study IT systems’ role in personal/professional contexts.
+  - **Learning Aims**:
+    - A: IT infrastructure for organizational needs.
+    - B: Data/information use in organizations.
+    - C: IT policies for organizations.
+  - **Content**:
+    - A1: Organization purposes/functions, infrastructure needs.
+    - A2: Digital devices (PCs, servers, mobile, etc.), uses.
+    - A3: Peripheral devices (input/output, storage), media.
+    - A4: Software (OS, utility, application), file types.
+    - A5: Connectivity (wired/wireless).
+    - A6: Networks (PAN, LAN, WAN, VPN, internet).
+    - A7: Data transmission (protocols, security, bandwidth).
+    - A8: Online systems (cloud, remote working).
+    - A9: Emerging technologies (5G, IoT, VR).
+    - B1: Data vs. information, organizational data needs.
+    - B2: Online communities (social media, blogs, forums).
+    - B3: Data sources, accuracy, collection methods.
+    - C1: Threats (viruses, hackers, phishing).
+    - C2: Data protection (permissions, encryption).
+    - C3: Moral/ethical issues (e.g., privacy, sustainability).
+    - C4: Legal issues (data protection, copyright).
+    - C5: Professional guidelines (ISO, WCAG).
+    - C6: Managing IT (policies, SLAs, scalability).
+  - **Assessment Criteria**:
+    - Pass: Explain software/hardware/networks for organizational needs, data/information use, threats, protection, legal/ethical procedures.
+    - Merit: Analyze IT infrastructure/data/threats/protection impacts, legal/ethical procedures.
+    - Distinction: Evaluate IT infrastructure/data impact, justify policy decisions.
+  - **Resources**: PCs, office software, internet, network connectivity.
+  - **Links**: Units 2, 3, 5, 11, 12, 15.
+  - **Employability Skills**: Analytical, decision-making, communication.
+
+- **Unit 2: Creating Systems to Manage Information** (90 GLH, Optional, Internal Assessment):
+  - **Brief**: Design, create, test, evaluate relational database systems.
+  - **Learning Aims**:
+    - A: Understand relational database management systems (RDBMS).
+    - B: Design relational database for client needs.
+    - C: Develop database for client needs.
+  - **Content**:
+    - A1: RDBMS types, relational models, keys, relationships.
+    - A2: Data manipulation (SQL, updates, queries).
+    - A3: Normalization (UNF, 1NF, 2NF, 3NF).
+    - B1: Database design (conceptual/logical/physical, ER modeling).
+    - B2: Design documentation (data dictionaries, ER diagrams).
+    - B3: Evaluate designs for functionality.
+    - C1: Create database (tables, relationships, validation).
+    - C2: Test database (functionality, security, referential integrity).
+    - C3: Evaluate testing outcomes.
+    - C4: Evaluate database solution.
+  - **Assessment Criteria**:
+    - Pass: Explain RDBMS features, produce/design database, test for functionality.
+    - Merit: Analyze RDBMS contribution, justify design, refine database.
+    - Distinction: Evaluate RDBMS/design/database quality.
+  - **Resources**: PCs, database software, internet.
+  - **Links**: Unit 3.
+  - **Employability Skills**: Research, presentation.
+
+- **Unit 3: Using Social Media in Business** (90 GLH, Optional, Internal Assessment):
+  - **Brief**: Explore business use of social media, plan/implement strategies.
+  - **Learning Aims**:
+    - A: Social media’s impact on business promotion.
+    - B: Plan social media use for business needs.
+    - C: Implement social media in business.
+  - **Content**:
+    - A1: Social media websites (Facebook, Twitter, etc.), business features.
+    - A2: Business uses (branding, customer service, advertising).
+    - A3: Risks (reputation, security, sustainability).
+    - B1: Planning processes (content, community, policies).
+    - B2: Business requirements (targets, timescales).
+    - B3: Content planning/publishing (audience, keywords).
+    - B4: Online community building (engagement, monitoring).
+    - B5: Social media policy (ethics, confidentiality).
+    - B6: Refine plans with feedback.
+    - C1: Create accounts/profiles.
+    - C2: Content creation/publication.
+    - C3: Build online community (hashtags, automation).
+    - C4: Data analysis (interaction, audience profiles).
+    - C5: Skills (planning, communication, professionalism).
+  - **Assessment Criteria**:
+    - Pass: Explain social media use/audience, produce/review plan, create content, review data.
+    - Merit: Assess social media use, justify plan, optimize content.
+    - Distinction: Evaluate social media use/plan, demonstrate responsibility.
+  - **Resources**: PCs, internet, social media platforms.
+  - **Links**: Units 1, 2.
+  - **Employability Skills**: Communication, planning, analysis.
+
+**Assessment**
+- **Pearson Set Assignment (PSA) Units** (Units 1, 6, 11):
+  - Set by Pearson, marked by teachers, externally verified.
+  - 20-hour computer-based tasks, two assignments per series (September-August).
+  - Resits allowed during the program.
+- **Internal Assessment**:
+  - All units internally assessed, externally verified.
+  - Centers must be approved, follow Section 6 guidelines.
+  - Varied assessment styles (research, case studies, projects) to develop skills.
+  - Authorized Assignment Briefs provided for non-PSA units.
+  - No repeated submissions allowed.
+- **Language**: English, with translation or sign language for accessibility.
+- **Grading**:
+  - Units graded: Distinction (D), Merit (M), Pass (P), Unclassified (U).
+  - Qualifications graded: P to D*, PP to D*D*, PPP to D*D*D*.
+  - Unit GLH determines contribution to overall grade (e.g., 120 GLH = double 60 GLH).
+  - Regular review of grading scales based on learner performance.
+
+**Qualification Purpose and Progression**
+- **Target Audience**: Learners interested in IT higher education or industry roles.
+- **Qualification Choice**:
+  - Certificate/Subsidiary Diploma for part-time or combined study.
+  - Diploma/Extended Diploma for comprehensive IT focus.
+  - Flexible progression between sizes.
+- **Content**:
+  - Developed with employers, professional bodies, higher education.
+  - Mandatory units ensure coherence; optional units offer flexibility.
+  - Covers IT systems, website development, cybersecurity, programming, etc.
+  - Emphasizes applied learning, vocational behaviors, transferable skills (communication, teamwork, research).
+- **Progression**:
+  - Higher education: BTEC Higher Nationals, degrees in IT, business, etc.
+  - Employment: Software developer, web developer, mobile app designer, IT support, cloud architect.
+  - Vocational apprenticeships or entry-level roles.
+- **Transferable Skills**:
+  - Cognitive: Critical thinking, problem-solving, systems use.
+  - Interpersonal: Communication, collaboration, negotiation.
+  - Intrapersonal: Self-management, adaptability, resilience.
+  - Higher education skills: Independent learning, research, presentations.
+
+**Administrative Arrangements**
+- **Learner Registration/Entry**: Centers manage registration and assessment access.
+- **Assessment Conduct**:
+  - Internal assessments follow center policies.
+  - PSAs require secure administration (Section 5).
+- **Malpractice**: Policies to address cheating or misconduct.
+- **Certification/Results**: Issued upon completion, with additional administrative support (Section 7).
+
+**Quality Assurance**
+- External standards verification ensures consistency.
+- Centers receive feedback to maintain quality (Section 8).
+
+**Resources and Support**
+- **Setup/Teaching**: Guides for course setup and delivery.
+- **Pearson Progress**: Tools for tracking learner progress.
+- **Teaching/Learning**: Lesson plans, case studies, online resources.
+- **Assessment**: Sample assignments, marking guides.
+- **Pearson English**: Language support for learners.
+- **Training**: Workshops, webinars, and consultant support (Section 10).
+
+**Appendices**
+1. **Industry Standards**: Links to ITPS, Microsoft, Certiport, NASSCOM.
+2. **Microsoft Certifications**: Details on Azure Data/AI Fundamentals.
+3. **Transferable Skills**: Importance of cognitive, interpersonal, intrapersonal skills.
+4. **Sustainability**: Embedding sustainability in qualifications, aligning with SDGs.
+5. **Glossary**: Definitions of terms used in the specification.
+
+**Unit 3: Using Social Media in Business**
+- **Level**: 3
+- **Type**: Internal
+- **Guided Learning Hours (GLH)**: 90
+- **Brief**: Explore business use of social media, plan and implement strategies.
+- **Learning Aims**:
+  - A: Social media’s impact on business promotion.
+  - B: Plan social media use for business needs.
+  - C: Implement social media in business.
+- **Assessment**:
+  - Two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aims B and C: B.P3, B.P4, C.P5, C.P6, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: Social media platforms (e.g., Facebook, Twitter), business features.
+  - **A2**: Business uses (branding, customer service, advertising).
+  - **A3**: Risks (reputation, security, sustainability).
+  - **B1**: Planning (content, community, policies).
+  - **B2**: Business requirements (targets, timescales).
+  - **B3**: Content planning/publishing (audience, keywords).
+  - **B4**: Online community building (engagement, monitoring).
+  - **B5**: Social media policy (ethics, confidentiality).
+  - **B6**: Refine plans with feedback.
+  - **C1**: Create accounts/profiles.
+  - **C2**: Content creation/publication.
+  - **C3**: Build online community (hashtags, automation).
+  - **C4**: Data analysis (interaction, audience profiles).
+  - **C5**: Skills (planning, communication, professionalism).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain social media use/audience.
+    - A.P2: Explain how sites appeal to audiences.
+    - B.P3: Produce/review plan.
+    - B.P4: Review plan with others.
+    - C.P5: Create content.
+    - C.P6: Review data.
+  - **Merit**:
+    - A.M1: Assess social media use.
+    - B.M2: Justify plan.
+    - C.M3: Optimize content.
+  - **Distinction**:
+    - A.D1: Evaluate social media use.
+    - BC.D2: Evaluate plan/implementation.
+    - BC.D3: Demonstrate responsibility.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation of business social media use, benefits, risks, and legal/ethical implications. Detailed data analysis, reasoned improvements. High-quality communication.
+  - **Merit**: Reasoned assessment of social media use, justified plan, effective post optimization. Clear data analysis, technically accurate communication.
+  - **Pass**: Detailed information on social media use, audience profiles, basic plan, and data review. May have inaccuracies.
+- **Resources**: PCs, internet, social media platforms.
+- **Links**: Units 1, 2, 4, 9, 11.
+- **Employability Skills**: Analytical, decision-making, communication, planning, legal/ethical work.
+
+**Unit 4: Programming**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 90
+- **Brief**: Study programming concepts, design, develop, and test programs.
+- **Learning Aims**:
+  - A: Examine computational thinking and programming principles.
+  - B: Design software to meet client requirements.
+  - C: Develop software to meet client requirements.
+- **Assessment**:
+  - Two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.P3, A.M1, A.D1.
+  - Learning Aims B and C: B.P4, B.P5, C.P6, C.P7, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: Computational thinking (decomposition, pattern recognition, abstraction).
+  - **A2**: Software uses (gaming, productivity, social media).
+  - **A3**: Programming languages (procedural, object-oriented, event-driven, machine, markup).
+  - **A4**: Constructs (variables, data types, statements, subroutines, file handling).
+  - **A5**: Logic principles (iteration, mathematical logic, sets).
+  - **A6**: Software quality (efficiency, maintainability, portability, reliability, robustness, usability).
+  - **B1**: Software development life cycle (requirements, design, coding, testing, maintenance).
+  - **B2**: Solution design (problem definition, user interface, algorithms, data structures).
+  - **C1**: Development environment, coding, library routines.
+  - **C2**: Testing (functional, stability, compatibility).
+  - **C3**: Improvement/refinement (code annotation, optimization).
+  - **C4**: Solution review (suitability, quality, constraints).
+  - **C5**: Skills (planning, communication, professionalism).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain computational thinking.
+    - A.P2: Explain programming principles.
+    - A.P3: Explain software design principles.
+    - B.P4: Produce program design.
+    - B.P5: Review design.
+    - C.P6: Produce program.
+    - C.P7: Review program.
+  - **Merit**:
+    - A.M1: Analyze computational thinking impact.
+    - B.M2: Justify design decisions.
+    - C.M3: Optimize program.
+  - **Distinction**:
+    - A.D1: Evaluate computational thinking impact.
+    - BC.D2: Evaluate design/program.
+    - BC.D3: Demonstrate responsibility.
+- **Assessment Decisions**:
+  - **Distinction**: Detailed evaluation of computational thinking, programming languages, and program quality. Justified design/development, high-quality communication.
+  - **Merit**: Balanced analysis of computational thinking, languages, and design strengths/weaknesses. Justified, optimized program, technically accurate communication.
+  - **Pass**: Basic explanations of computational thinking, languages, and design. Functional program with some issues, may have inaccuracies.
+- **Resources**: Programming languages, IDEs, diagramming tools, open-source code bases.
+- **Links**: Units 1, 2, 3, 5, 7, 8.
+- **Employability Skills**: Analytical, decision-making, communication, planning, legal/ethical work.
+
+**Unit 5: Data Modelling**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Study data modelling for decision-making, design and develop a data model.
+- **Learning Aims**:
+  - A: Investigate data modelling in decision-making.
+  - B: Design a data model to meet client requirements.
+  - C: Develop a data model to meet client requirements.
+- **Assessment**:
+  - Two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aims B and C: B.P3, B.P4, C.P5, C.P6, C.P7, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: Decision-making stages (scenario, information, analysis, alternatives, justification).
+  - **A2**: Spreadsheet features (data entry, formulas, validation, analysis, presentation).
+  - **A3**: Modelling alternatives (inputs, outputs, benefits, limitations).
+  - **A4**: Model evaluation (scenario fit, decisions, improvements).
+  - **A5**: Documenting decisions (sources, factors, methods).
+  - **B1**: Functional specification (problem, functions, interface, constraints).
+  - **B2**: Spreadsheet design (layout, processing, validation, test plan).
+  - **B3**: Design refinement (client feedback, communication, updates).
+  - **C1**: Model development (formulas, functions, validation, layout).
+  - **C2**: Testing (functionality, logic, user feedback).
+  - **C3**: Refinement (testing issues, feedback).
+  - **C4**: Skills (planning, communication, professionalism).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain decision-making stages.
+    - A.P2: Explain spreadsheet features.
+    - B.P3: Produce model designs.
+    - B.P4: Review designs.
+    - C.P5: Develop model.
+    - C.P6: Test model.
+    - C.P7: Review model.
+  - **Merit**:
+    - A.M1: Analyze spreadsheet features.
+    - B.M2: Justify design decisions.
+    - C.M3: Optimize model.
+  - **Distinction**:
+    - A.D1: Evaluate spreadsheet features.
+    - BC.D2: Evaluate design/model.
+    - BC.D3: Demonstrate responsibility.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation of decision-making and spreadsheet features. Detailed, justified model design/development, high-quality communication.
+  - **Merit**: Detailed analysis of decision-making and spreadsheet features. Justified, optimized model, technically accurate communication.
+  - **Pass**: Basic explanations of decision-making and spreadsheet features. Functional model with minor issues, may have inaccuracies.
+- **Resources**: Spreadsheet software, hardware.
+- **Links**: Units 1, 2, 6, 11, 12, 14, 15, 20.
+- **Employability Skills**: Analytical, decision-making, communication, planning, legal/ethical work.
+
+**Unit 6: Website Development**
+- **Level**: 3
+- **Type**: Internal Set Assignment
+- **GLH**: 60
+- **Brief**: Investigate website development principles, design and develop a website using scripting.
+- **Learning Aims**:
+  - A: Understand website development principles.
+  - B: Design a website to meet client requirements.
+  - C: Develop a website to meet client requirements.
+- **Assessment**:
+  - Pearson Set Assignment Brief.
+  - Learning Aim A: A.P1, A.M1, A.D1.
+  - Learning Aims B and C: B.P2, B.P3, C.P4, C.P5, C.P6, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: Website purposes (content-based, service-based, audience, requirements). Design principles (usability, layout, accessibility). Media/objects, creativity, SEO.
+  - **A2**: Performance factors (server-side, client-side, browser compliance).
+  - **B1**: Design requirements (problem statement, audience, interactivity, constraints). Diagrammatic illustrations, SEO, mobile compatibility, feedback, test plans.
+  - **B2**: Tools/techniques (HTML, CSS, forms, navigation, multimedia, accessibility, W3C standards).
+  - **C1**: Client-side scripting (JavaScript, PHP, interactivity).
+  - **C2**: Development (CSS, scripting, mobile compatibility, file uploading).
+  - **C3**: Review (quality, suitability, legal/ethical constraints).
+  - **C4**: Optimization (testing, feedback, compatibility).
+  - **C5**: Skills (planning, communication, professionalism).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Compare website design principles.
+    - B.P2: Produce website designs.
+    - B.P3: Review designs.
+    - C.P4: Produce website.
+    - C.P5: Test website.
+    - C.P6: Review website.
+  - **Merit**:
+    - A.M1: Analyze design principles.
+    - B.M2: Justify design decisions.
+    - C.M3: Optimize website.
+  - **Distinction**:
+    - A.D1: Evaluate design principles.
+    - BC.D2: Evaluate design/website.
+    - BC.D3: Demonstrate responsibility.
+- **Assessment Decisions**:
+  - **Distinction**: Detailed evaluation of website principles, justified design/development, high-quality communication. Systematic review of skills/behaviors.
+  - **Merit**: Clear analysis of design principles, justified, optimized website, technically accurate communication.
+  - **Pass**: Basic comparison of website principles, functional website with minor issues, may have inaccuracies.
+- **Resources**: Text editors (Notepad++), authoring software (Dreamweaver, KompoZer), FTP (FileZilla).
+- **Assessment Controls**: Recommended time, supervision, equal resource access, research allowed.
+- **Links**: Units 1, 3, 4, 7, 11, 12, 14, 15, 16, 17.
+- **Employability Skills**: Analytical, decision-making, communication, planning, legal/ethical work.
+
+**Unit 7: Mobile Apps Development**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Investigate mobile apps, design and develop an app for mobile devices.
+- **Learning Aims**:
+  - A: Investigate mobile apps and devices.
+  - B: Design a mobile app using device functions.
+  - C: Develop a mobile app using device functions.
+- **Assessment**:
+  - Two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aims B and C: B.P3, B.P4, C.P5, C.P6, C.P7, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: App types (native, web, hybrid).
+  - **A2**: App context (locale, utility, productivity, entertainment).
+  - **A3**: Device integration (accelerometer, GPS, user interface, permissions).
+  - **A4**: Programming (Kotlin, Swift, Android Studio, Xcode).
+  - **B1**: App requirements (capabilities, input/output, user needs).
+  - **B2**: Design (user requirements, screen layouts, algorithms, validation, resources, test schedule).
+  - **C1**: Content preparation (optimization, formats, compression).
+  - **C2**: Development (constructs, data types, device capabilities, code annotation).
+  - **C3**: Testing (functionality, usability, performance, user feedback).
+  - **C4**: Lessons learned (effectiveness, issues, improvements).
+  - **C5**: Skills (planning, communication, professionalism).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain app purpose/user impact.
+    - A.P2: Explain technology impact.
+    - B.P3: Produce app designs.
+    - B.P4: Review designs.
+    - C.P5: Produce app.
+    - C.P6: Test app.
+    - C.P7: Review app.
+  - **Merit**:
+    - A.M1: Analyze app design factors.
+    - B.M2: Justify design decisions.
+    - C.M3: Optimize app.
+  - **Distinction**:
+    - A.D1: Evaluate app design effectiveness.
+    - BC.D2: Evaluate design/app.
+    - BC.D3: Demonstrate responsibility.
+- **Assessment Decisions**:
+  - **Distinction**: Balanced evaluation of app design, justified design/development, high-quality communication. Systematic review of skills/behaviors.
+  - **Merit**: Clear analysis of app design factors, justified, optimized app, technically accurate communication.
+  - **Pass**: Basic explanations of app design/technology, functional app with minor issues, may have inaccuracies.
+- **Resources**: IDEs (Android Studio, Xcode), mobile devices (Android, iOS).
+- **Links**: Units 1, 3, 4, 6, 8, 9, 11, 12, 14, 16, 17.
+- **Employability Skills**: Analytical, decision-making, communication, planning, legal/ethical work.
+
+**Unit 8: Computer Games Development**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Investigate gaming industry trends, design and develop a computer game.
+- **Learning Aims**:
+  - A: Investigate gaming technologies.
+  - B: Design a game to meet client requirements.
+  - C: Develop a game to meet client requirements.
+- **Assessment**:
+  - Two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aims B and C: B.P3, B.P4, C.P5, C.P6, C.P7, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: Social trends (genres, players, production, multiplayer, AI, security).
+  - **A2**: Technologies (platforms, hardware, software, game engines).
+  - **B1**: Design processes (mathematics, graphics, gameplay features).
+  - **B2**: Documentation (brief, legal/ethical, gameplay, assets, platform, timeline).
+  - **B3**: Design refinement (client feedback, communication, updates).
+  - **C1**: Development principles (schematics, rendering, mathematics, prototyping).
+  - **C2**: Development (visual style, input, assets, AI, 3D rendering, save state).
+  - **C3**: Testing (playability, compatibility, feedback).
+  - **C4**: Review (quality, suitability, constraints).
+  - **C5**: Quality characteristics (playability, performance, presentation).
+  - **C6**: Skills (planning, communication, professionalism).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain social/technological trends.
+    - A.P2: Explain technology impact.
+    - B.P3: Produce game designs.
+    - B.P4: Review designs.
+    - C.P5: Produce game.
+    - C.P6: Test game.
+    - C.P7: Review game.
+  - **Merit**:
+    - A.M1: Discuss technology impact.
+    - B.M2: Justify design decisions.
+    - C.M3: Optimize game.
+  - **Distinction**:
+    - A.D1: Evaluate technology impact.
+    - BC.D2: Evaluate design/game.
+    - BC.D3: Demonstrate responsibility.
+- **Assessment Decisions**:
+  - **Distinction**: Balanced evaluation of gaming trends/technologies, justified design/development, high-quality communication. Systematic review of skills/behaviors.
+  - **Merit**: Clear analysis of trends/technologies, justified, optimized game, technically accurate communication.
+  - **Pass**: Basic explanations of trends/technologies, functional game with minor issues, may have inaccuracies.
+- **Resources**: Game engines (Unity, Unreal), software.
+- **Links**: Units 1, 4, 9, 11, 12, 16, 17.
+- **Employability Skills**: Analytical, decision-making, communication, planning, legal/ethical work.
+
+**Unit 9: IT Project Management**
+- **Level**: 3
+- **Type**: Internal
+- **Guided Learning Hours (GLH)**: 90
+- **Brief**: Investigate project management principles/methodologies, manage a live/simulated IT project.
+- **Learning Aims**:
+  - A: Investigate IT project management principles/methodologies in industry.
+  - B: Carry out project initiation.
+  - C: Plan, execute, monitor, control an IT project using a methodology.
+  - D: Close project, reflect on personal performance/project outcome.
+- **Assessment**:
+  - Three summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aims B and C: B.P3, B.P4, C.P5, C.P6, C.P7, B.M2, C.M3, BC.D2, BC.D3.
+  - Learning Aim D: D.P8, D.P9, D.M4, D.D4.
+- **Content**:
+  - **A1**: Project definitions (scope, lifecycle: initiating, planning, executing, monitoring, closing).
+  - **A2**: Methodologies:
+    - PRINCE2: Scalable, structured, suitable for most projects. Stages: starting up, initiating, directing, controlling, managing product delivery/stage boundaries, closing.
+    - RAD: Suited for short-term, large-scale applications. Phases: requirements planning, user design, construction.
+    - Waterfall: Suited for websites/databases. Phases: requirements, analysis, design, implementation, testing, operation.
+    - Agile: Suited for medium/long-term projects with changing requirements. Phases: concept, inception, iteration, release, maintenance, retirement.
+  - **A3**: Structures (functional/non-functional requirements, roles: project manager, systems architect, electronics engineer, product owner, lead developer, developer, QA test lead/tester, IT support technician, user).
+  - **B1**: Idea generation (research, creativity tools: mind mapping, brainstorming, Six Thinking Hats).
+  - **B2**: Feasibility study (technical, economic, legal, operational, scheduling, sustainability, security, usability assessments).
+  - **B3**: Requirements (introduction, description, specifications, success criteria).
+  - **C1**: Project phasing (requirements breakdown, implementation stages).
+  - **C2**: Processes (risk/issue management, planning/monitoring: Gantt charts, critical path analysis, resource/time plans, contingency, constraints).
+  - **D1**: Lessons learned (project management skills, behaviors: time planning, communication, problem-solving, professionalism).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain methodology characteristics.
+    - A.P2: Explain project management structures.
+    - B.P3: Research IT problem, scope two solutions.
+    - B.P4: Prepare feasibility study, select solution.
+    - C.P5: Plan project implementation.
+    - C.P6: Execute project.
+    - C.P7: Monitor/control project.
+    - D.P8: Explain project management skills used.
+    - D.P9: Explain behaviors applied.
+  - **Merit**:
+    - A.M1: Compare methodologies/structures.
+    - B.M2: Assess two solutions, recommend one.
+    - C.M3: Perform project management processes soundly.
+    - D.M4: Recommend improvements to skills/behaviors.
+  - **Distinction**:
+    - A.D1: Evaluate methodologies/structures.
+    - BC.D2: Evaluate two solutions, justify preferred.
+    - BC.D3: Perform project management processes effectively.
+    - D.D4: Demonstrate technical understanding, analyze project.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation of methodologies, structures, solutions, and project execution. High-quality communication, logical reasoning.
+  - **Merit**: Reasoned comparison of methodologies, consistent solution assessment, sound project processes. Technically accurate communication.
+  - **Pass**: Basic explanations, some inconsistencies in research/planning/execution. May have inaccuracies.
+- **Resources**: Project management/simulation software, physical resources per project type.
+- **Links**: Units 1, 2, 3, 4, 6, 7, 8, 11, 13, 14, 15, 18.
+- **Employability Skills**: Analytical, decision-making, communication, planning, legal/ethical work.
+
+**Unit 10: Big Data and Business Analytics**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Explore how businesses use data/models for decisions, strategy, performance.
+- **Learning Aims**:
+  - A: Investigate big data/analytics for performance, benchmarking, innovation.
+  - B: Explore statistical software/tools for data analysis.
+  - C: Analyze statistical data for organizational needs.
+- **Assessment**:
+  - Three summative assignments.
+  - Learning Aim A: A.P1, A.M1, A.D1.
+  - Learning Aim B: B.P2, B.P3, B.M2, B.M3, B.D2.
+  - Learning Aim C: C.P4, C.P5, C.P6, C.M4, C.M5, C.M6, C.D3.
+- **Content**:
+  - **A1**: Business information (strategy planning, productivity, benchmarking, innovation, transactional/analytical data, challenges: cost, skills, security).
+  - **A2**: Data types (qualitative, quantitative, internal, external), storage (structured, unstructured, volume, velocity, variety, security, data warehouse/mart).
+  - **A3**: Big data analysis (batch/streaming, specialized software, OLAP, data validity).
+  - **A4**: Analytics types (descriptive, diagnostic, predictive, prescriptive).
+  - **B1**: Statistical techniques (routine: mean, median, mode, charts; non-routine: variance, standard deviation, range).
+  - **B2**: Probability distributions (normal distribution, t-tests).
+  - **B3**: Mathematical modeling (linear regression, correlation coefficient, non-linear regression).
+  - **C1**: Data selection (objectives, system requirements, constraints, valid data).
+  - **C2**: Data evaluation/presentation (clean/formatted data, SQL/Python/R, cloud tools, valid/accurate/relevant outcomes, audience-appropriate formats).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain analytics for performance/benchmarking/innovation.
+    - B.P2: Solve routine central tendency/dispersion/probability problems.
+    - B.P3: Solve routine linear regression problems.
+    - C.P4: Prepare raw data set.
+    - C.P5: Analyze data with routine operations.
+    - C.P6: Present straightforward conclusions/recommendations.
+  - **Merit**:
+    - A.M1: Compare analytics uses.
+    - B.M2: Solve routine/non-routine central tendency/dispersion/probability problems accurately.
+    - B.M3: Solve routine/non-routine regression problems accurately.
+    - C.M4: Prepare data effectively.
+    - C.M5: Analyze data with routine/non-routine operations accurately.
+    - C.M6: Present concise, valid conclusions/recommendations.
+  - **Distinction**:
+    - A.D1: Evaluate analytics uses.
+    - B.D2: Evaluate synthesis/application of statistical/probability operations.
+    - C.D3: Present concise, valid conclusions from cleansed data for multiple audiences.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation of analytics, accurate statistical analysis, valid conclusions. High-quality communication, precise terminology.
+  - **Merit**: Reasoned comparison, accurate routine/non-routine calculations, concise conclusions. Technically accurate communication.
+  - **Pass**: Basic explanations, some errors in calculations/presentation. May have inaccuracies.
+- **Resources**: Research resources, two pre-selected data sets, software (JMP, MATLAB, spreadsheets).
+- **Links**: Units 1, 2, 11, 14, 18, 19.
+- **Employability Skills**: Analytical, decision-making, communication, planning, legal/ethical work.
+
+**Unit 11: Cyber Security and Incident Management**
+- **Level**: 3
+- **Type**: Internal Set Assignment
+- **GLH**: 120
+- **Brief**: Study cyber threats, vulnerabilities, protection methods, incident management.
+- **Learning Aims**:
+  - A: Understand cyber threats, vulnerabilities, protection methods.
+  - B: Explore networked systems’ security implications.
+  - C: Develop cyber security protection plan.
+  - D: Examine forensic evidence collection procedures.
+- **Assessment**:
+  - Pearson Set Assignment Brief.
+  - Learning Aim A: A.P1, A.P2, A.P3, A.M1, AB.D1.
+  - Learning Aim B: B.P4, B.P5, B.M2.
+  - Learning Aim C: C.P6, C.P7, C.M3, CD.D2.
+  - Learning Aim D: D.P8, D.M4.
+- **Content**:
+  - **A1**: Threats (internal: sabotage, unauthorized access; external: malware, hacking, social engineering; impacts: operational, financial, reputational, intellectual property loss).
+  - **A2**: Vulnerabilities (network, organizational, software, OS, mobile, physical, cloud/IoT, attack vectors: Wi-Fi, Bluetooth).
+  - **A3**: Legal responsibilities (data protection, computer misuse, telecommunications, fraud, health/safety laws).
+  - **A4**: Physical security (locks, biometrics, CCTV, backups).
+  - **A5**: Software/hardware security (antivirus, firewalls, authentication, encryption, WLAN protection).
+  - **B1**: Network types (LAN, WLAN, WAN, SAN, PAN, intranet, cloud, topologies, architectures).
+  - **B2**: Components (end-user devices, connectivity devices, media, software).
+  - **B3**: Infrastructure services (TCP/IP, DNS, DHCP, routing, file/print services).
+  - **C1**: Vulnerability assessment (port scanners, penetration testing, third-party reviews).
+  - **C2**: Risk severity (probability × impact, low/medium/high/extreme).
+  - **C3**: Security plan (hardware/software/physical measures, risk management, cost-benefit, test plan).
+  - **C4**: Internal policies (security, backup, data protection, incident response, disaster recovery).
+  - **C5**: External service providers (cloud, hardware, software agreements, legal/security issues).
+  - **D1**: Forensic evidence collection (desktop/network forensics, live forensics challenges).
+  - **D2**: Forensic analysis (record-keeping, snapshots, evidence reliability, recommendations).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain cyber threats.
+    - A.P2: Explain system vulnerabilities.
+    - A.P3: Explain security measures.
+    - B.P4: Explain securing network types/components.
+    - B.P5: Explain cyber security’s impact on infrastructure.
+    - C.P6: Perform risk assessment.
+    - C.P7: Produce security plan.
+    - D.P8: Explain forensic procedures.
+  - **Merit**:
+    - A.M1: Assess threat impacts with legal considerations.
+    - B.M2: Analyze networked systems’ security implications.
+    - C.M3: Justify security measures.
+    - D.M4: Analyze forensic procedure implementation.
+  - **Distinction**:
+    - AB.D1: Evaluate protection measures’ effectiveness with legal considerations.
+    - CD.D2: Evaluate security plan’s impact on policies/providers.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation of threats, measures, plans, forensics. High-quality communication, logical reasoning.
+  - **Merit**: Reasoned analysis of threats, networked systems, forensics, justified measures. Technically accurate communication.
+  - **Pass**: Basic explanations, some inaccuracies in risk assessment/plans. Applies familiar measures.
+- **Resources**: PCs, office applications, network connectivity, internet.
+- **Assessment Controls**: Recommended time, supervision, equal resource access, research allowed.
+- **Links**: Units 1, 2, 3, 4, 9, 13, 15, 20.
+- **Employability Skills**: Logic, reasoning, IT skills (hardware, software, networks).
+
+**Unit 12: IT Technical Support and Management**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Investigate IT system support/management, perform support tasks, plan support for new systems.
+- **Learning Aims**:
+  - A: Examine IT support/management needs/characteristics.
+  - B: Perform routine support/management activities.
+  - C: Develop support/management plan for new IT system.
+- **Assessment**:
+  - Three summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.P3, A.M1, A.D1.
+  - Learning Aim B: B.P4, B.P5, B.P6, B.M2, B.M3, B.D2.
+  - Learning Aim C: C.P7, C.P8, C.M4, C.D3.
+- **Content**:
+  - **A1**: Purpose (support users: beginners/intermediate/expert, administrators; ensure continuity, performance, security).
+  - **A2**: Safe working practices (legal regulations, hazards: electrocution, fire, ergonomics).
+  - **A3**: Job roles (support technician, network administrator, systems analyst, helpdesk).
+  - **B1**: User support (request management, ticketing systems).
+  - **B2**: Routine support (software updates, user access, fault diagnosis).
+  - **B3**: System management (configuration, backups, monitoring).
+  - **B4**: Performance optimization (system monitoring, resource allocation).
+  - **B5**: Behaviors (communication, problem-solving, professionalism).
+  - **C1**: System diagrams (network, hardware, software layouts).
+  - **C2**: Incident response/disaster recovery (procedures, recovery objectives).
+  - **C3**: Capacity planning (resource forecasting, scalability).
+  - **C4**: Sustainability (energy efficiency, waste management).
+  - **C5**: Support/management plan (procedures, policies, timelines).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain support/management purpose.
+    - A.P2: Explain safe working practices.
+    - A.P3: Explain job roles.
+    - B.P4: Manage user support requests.
+    - B.P5: Perform routine support activities.
+    - B.P6: Perform system management activities.
+    - C.P7: Produce system diagrams.
+    - C.P8: Produce support/management plan.
+  - **Merit**:
+    - A.M1: Analyze support/management needs.
+    - B.M2: Justify support activities.
+    - B.M3: Optimize system performance.
+    - C.M4: Justify plan components.
+  - **Distinction**:
+    - A.D1: Evaluate support/management needs.
+    - B.D2: Evaluate support activities’ effectiveness.
+    - C.D3: Evaluate plan’s effectiveness.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation of needs, activities, plans. High-quality communication, logical reasoning.
+  - **Merit**: Reasoned analysis, justified activities, optimized performance. Technically accurate communication.
+  - **Pass**: Basic explanations, some inconsistencies in activities/plans. May have inaccuracies.
+- **Resources**: IT systems (PCs, servers, networks), support software.
+- **Links**: Units 1, 2, 11, 15.
+- **Employability Skills**: Communication, problem-solving, planning, IT skills.
+**Pearson BTEC International Level 3 Qualifications in Information Technology – Units 12-15**
+
+**Unit 12: IT Technical Support and Management**
+- **Level**: 3
+- **Type**: Internal
+- **Guided Learning Hours (GLH)**: 60
+- **Brief**: Investigate IT system support/management needs, perform routine support tasks, develop a support plan for a new IT system.
+- **Learning Aims**:
+  - A: Examine IT system support/management needs and characteristics.
+  - B: Carry out routine support/management activities.
+  - C: Develop a support/management plan for a new IT system using industry standards.
+- **Assessment**:
+  - Maximum three summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aim B: B.P3, B.P4, B.M2, B.D2.
+  - Learning Aim C: C.P5, C.P6, C.M3, C.D3.
+- **Content**:
+  - **A1**: Purpose of IT support (user support: beginners/intermediate/expert, administrators; ensure continuity, performance, security).
+  - **A2**: Safe working practices (legal regulations, hazards: electrocution, fire, ergonomics, ESD wrist strap/mat, firefighting equipment, first-aid training).
+  - **A3**: Job roles (first-line: collect/analyze customer issues; second-line: prioritize, technical problem-solving; third-line: manage complex issues, strategic priorities; infrastructure architects: design solutions; network administrators: second-/third-line support).
+  - **A4**: Tools (network performance monitoring: bandwidth/application monitoring, network scanners; user desktop provision: server virtualization, thin client, web-based apps; remote desktop imaging/deployment, asset management, remote access/control).
+  - **B1**: User support management (issues: prevent intended use, e.g., forgotten login, privacy/copyright; faults: hardware/software defects; processes: ticket raising, severity/priority assignment, technician allocation, escalation, status communication; SLAs: solution/performance monitoring; user communication: listening, tone, factual info; customer satisfaction analysis: training needs, problem hardware/software, resource scheduling).
+  - **B2**: Routine support (helpdesk: issue/fault logging, user communication, repairs, workarounds; system data analysis: downtime, application/system monitoring; account management: user creation, password resets, access rights, storage limits).
+  - **B3**: System management (installation/upgrades: device configuration, storage management, backups, hardware upgrades, peripherals; software management: patches, app roll-outs, removals; disk configuration: shared drives, disk images, folder permissions).
+  - **B4**: Performance optimization (security: firewalls, access rules, patches, device hardening, permissions; traffic: performance under load, bottleneck resolution; techniques: BIOS/firmware updates, OS settings, memory/disk optimization, antivirus; hardware/software upgrades; automated monitoring: servers, disk space, network availability).
+  - **B5**: Behaviors (time management: planning, target setting, feedback; reviewing outcomes; professionalism, etiquette, communication, leadership, responsibility).
+  - **C1**: System diagrams (route maps, upgrade paths, schedules, Gantt charts, performance reports, maintenance checklists).
+  - **C2**: Incident response/disaster recovery (ISO/IEC 27031: incident management, workaround solutions, critical systems, RTO/RPO, backups, site mirroring, unplanned downtime planning).
+  - **C3**: Capacity planning (user types/location/number, work nature, system optimization, 3-/5-/10-year planning, scalability, cloud suitability, monitoring: disk/memory/CPU, bottlenecks).
+  - **C4**: Sustainability (cloud/external providers, finite resources, recycling, repair vs. replacement, low-carbon sourcing, remote working; environmental management: groundwater, air quality, noise, WEEE Regulations 2013).
+  - **C5**: Support plan (purpose, scope, client requirements/constraints; covers: disaster recovery, incident response, capacity, sustainability; includes: security, ergonomics, floor plans, outsourcing, policies).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain safe working practices.
+    - A.P2: Explain job roles/tools.
+    - B.P3: Complete six routine support activities safely.
+    - B.P4: Monitor system performance.
+    - C.P5: Produce support/management plan.
+    - C.P6: Review plan with others.
+  - **Merit**:
+    - A.M1: Compare support needs/characteristics.
+    - B.M2: Complete six support activities, monitor performance.
+    - C.M3: Justify plan decisions.
+  - **Distinction**:
+    - A.D1: Evaluate support needs, suggest improvements.
+    - B.D2: Optimize system performance.
+    - C.D3: Evaluate refined plan using feedback.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation, optimized performance, high-quality communication.
+  - **Merit**: Reasoned comparison, consistent processes, technically accurate.
+  - **Pass**: Basic explanations, some inconsistencies, minor inaccuracies.
+- **Resources**: Research resources, industry software (Packet Tracer, OpenNMS, Zenoss Core), IT systems (Linux, Windows, Mac).
+- **Links**: Units 1, 2, 9, 11, 14, 15, 18.
+- **Employability Skills**: Analytical, decision-making, communication, planning, ethical work.
+
+**Unit 13: Software Testing**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Explore testing methodologies for commercial software, test a software product, review/present results.
+- **Learning Aims**:
+  - A: Understand software development/testing methodologies for quality assurance.
+  - B: Carry out testing methodologies on a software product.
+  - C: Review/present test results, suggest improvements.
+- **Assessment**:
+  - Maximum three summative assignments.
+  - Learning Aim A: A.P1, A.M1, A.D1.
+  - Learning Aim B: B.P2, B.P3, B.P4, B.M2, B.D2.
+  - Learning Aim C: C.P5, C.P6, C.M3, C.M4, C.D3.
+- **Content**:
+  - **A1**: User requirements (functions, problem improvement), job roles (developers, testers, business analysts, project managers, product owners).
+  - **A2**: Testing methodologies (unit: developer-led; acceptance: client sign-off; functional: user stories; system: end-to-end; performance: load testing; security: static/dynamic; regression: continuous testing; stress: stability under load; usability: user-centric).
+  - **A3**: Development methodologies:
+    - Agile: Flexible, user stories, continuous improvement; pros: stakeholder involvement; cons: complex planning.
+    - Waterfall: Testing post-development; pros: clear planning; cons: inflexible.
+    - Kanban: Just-in-time testing; pros: flexible delivery; cons: not for R&D.
+  - **B1**: Tools/processes (recording: cloud/text/automation; build servers; external testing; QA: bug description, steps, severity; change requests, debugging).
+  - **B2**: Test methodologies (service: SOAP/REST; application: functionality; automation; regression: test suites).
+  - **B3**: Test plan (methodologies, scripts: title, description, steps, results, importance).
+  - **B4**: Product testing (acceptance: user requirement results; regression: grouped test cases, bug raising, pass/fail/skip overview).
+  - **C1**: Test evaluation (summary: pass/fail/skip; undocumented bugs; recommendations; presentation: graphs, reports, verbal/written communication).
+  - **C2**: Test plan improvements (new test cases, regression prep, developer feedback).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain testing methodologies’ characteristics.
+    - B.P2: Select methodologies.
+    - B.P3: Produce test cases.
+    - B.P4: Perform tests.
+    - C.P5: Explain results with graphics.
+    - C.P6: Present results to team.
+  - **Merit**:
+    - A.M1: Compare methodologies.
+    - B.M2: Perform tests systematically.
+    - C.M3: Analyze results, suggest improvements.
+    - C.M4: Present clear results.
+  - **Distinction**:
+    - A.D1: Evaluate methodologies’ impact.
+    - B.D2: Perform comprehensive tests.
+    - C.D3: Present cohesive evaluation.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation, systematic testing, high-quality communication.
+  - **Merit**: Reasoned comparison, systematic tests, technically accurate.
+  - **Pass**: Basic explanations, some inaccuracies, non-systematic tests.
+- **Resources**: Software with specification, IDE (Visual Studio), testing software (SoapUI, Tarantula, TestLodge).
+- **Links**: Units 4, 6, 7, 8, 14, 18.
+- **Employability Skills**: Analytical, decision-making, communication, planning, ethical work.
+
+**Unit 14: Customising and Integrating Applications**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Explore customisation/integration of applications, develop solutions to meet organizational needs.
+- **Learning Aims**:
+  - A: Investigate customisation/integration of applications.
+  - B: Explore technologies/techniques for customisation/integration.
+  - C: Develop customised/integrated applications.
+- **Assessment**:
+  - Maximum three summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aim B: B.P3, B.M2, B.D2.
+  - Learning Aim C: C.P4, C.P5, C.P6, C.P7, C.M3, C.M4, C.D3.
+- **Content**:
+  - **A1**: Application software (office: word-processing, spreadsheets; internet: browsers, email; security: antivirus, firewalls; cloud: Google Docs, Dropbox).
+  - **A2**: Purpose/issues (customisation: modify UI, automate tasks; integration: data/process sharing; purpose: improve performance/usability; issues: misinterpretation, data integrity, communication protocols, security).
+  - **A3**: Customisation/integration (languages: VBA, AppleScript, PHP, Python, Java, .NET, SQL; factors: ease, speed, portability, security; customisation: spreadsheets, email, databases, web; integration: ERP, CRM, EDI, cloud, web services).
+  - **B1**: IDEs (source code editor, build tools, debugger, forms, APIs, SOAP).
+  - **B2**: Programming (techniques: routines, parameter passing; structures: loops, selection, subroutines; handling objects: forms, worksheets, databases; validation, searching).
+  - **B3**: Testing (unit, simulation, dry run, user requirements, debugging: syntax/logical errors).
+  - **C1**: Design (user requirements: problem, success criteria, UI, constraints; design: prototypes, flowcharts, UML; test plan; feedback, refinement).
+  - **C2**: Development (customise/integrate apps, use constructs, refine solutions, extend functionality).
+  - **C3**: Testing (functional testing, user feedback, reliability, usability, performance).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain why apps are customised/integrated.
+    - A.P2: Explain how apps are customised/integrated.
+    - B.P3: Explain customisation/integration with examples.
+    - C.P4: Produce designs.
+    - C.P5: Review designs.
+    - C.P6: Produce applications.
+    - C.P7: Test applications.
+  - **Merit**:
+    - A.M1: Compare customisation/integration.
+    - B.M2: Assess customisation/integration.
+    - C.M3: Justify design decisions.
+    - C.M4: Optimize applications.
+  - **Distinction**:
+    - A.D1: Evaluate customisation/integration.
+    - B.D2: Critically analyze solutions.
+    - C.D3: Evaluate designs/applications.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation, optimized solutions, high-quality communication.
+  - **Merit**: Reasoned comparison, effective designs, technically accurate.
+  - **Pass**: Basic explanations, some inconsistencies, minor inaccuracies.
+- **Resources**: Spreadsheet/database/web/email software, web services (SoapUI), mobile devices, programming software (Visual Studio, Java, Python).
+- **Links**: Units 2, 4, 5, 7, 9, 11, 15, 18, 20.
+- **Employability Skills**: Analytical, decision-making, communication, planning, ethical work.
+
+**Unit 15: Cloud Storage and Collaboration Tools**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Explore cloud technologies, design/deploy a cloud-based collaboration service, manage/review it.
+- **Learning Aims**:
+  - A: Explore cloud technologies/tools in organizations.
+  - B: Design/deploy a cloud-based collaboration service.
+  - C: Manage/review a cloud-based collaboration service.
+- **Assessment**:
+  - Maximum two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aims B and C: B.P3, B.P4, C.P5, C.P6, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: Cloud computing (reasons: productivity, flexibility, cost; characteristics: on-demand, ubiquitous access, resource pooling, measured service, elasticity; benefits/drawbacks).
+  - **A2**: Cloud models (services: SaaS, PaaS, IaaS; virtualization/containerisation; delivery: community, hybrid, private, public; self-host vs. third-party; features: automation, cloud bursting, just-in-time, multi-tenancy).
+  - **A3**: IT requirements (current systems, services, aims, customer/staff needs, location, legal/ethical considerations, non-cloud requirements).
+  - **A4**: Impact (users: flexibility, cost, risks; organizations: user experience, staffing, cost, implementation, backup, security, SLAs, data ownership, jurisdiction, dispute resolution).
+  - **A5**: Legal requirements (local legislation).
+  - **B1**: Planning (purpose, client/user needs, technical requirements, infrastructure, legal/ethical, risks).
+  - **B2**: Reviewing designs (feedback, client communication, meetings, refining solutions, updating specifications).
+  - **B3**: Development (infrastructure: servers, VPC, load balancers; platform: OS, resources; security: keypairs, firewalls; software/tools, user management, cloud clients, collaboration protocols, documentation).
+  - **C1**: Testing/maintenance (functional, user, performance, stress, security; test users, feedback, documentation, outcomes, maintenance).
+  - **C2**: Refining solutions (security updates, software upgrades, compatibility, user requirements, hardware developments).
+  - **C3**: Lessons learned (client requirements, efficiency, usability, stability, updates, improvements, alternatives).
+  - **C4**: Presentation skills (written/verbal communication, tone, jargon avoidance, constructive response).
+  - **C5**: Self-review (planning skills/behaviors, feedback, professionalism, leadership, accountability).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain current IT deployment.
+    - A.P2: Explain cloud technologies.
+    - B.P3: Produce plans.
+    - B.P4: Develop solution.
+    - C.P5: Test/manage solution.
+    - C.P6: Review solution.
+  - **Merit**:
+    - A.M1: Compare cloud impact.
+    - B.M2: Justify planning/implementation.
+    - C.M3: Optimize solution.
+  - **Distinction**:
+    - A.D1: Analyze cloud impact.
+    - BC.D2: Evaluate plan/solution.
+    - BC.D3: Demonstrate responsibility/creativity.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive analysis, optimized solutions, professional communication.
+  - **Merit**: Reasoned comparison, effective implementation, technically accurate.
+  - **Pass**: Basic explanations, some inefficiencies, minor inaccuracies.
+- **Resources**: Hardware/software for cloud solutions, live/self-hosted/virtual machines.
+- **Links**: Units 1, 2, 6, 11, 12, 13, 14.
+- **Employability Skills**: Analytical, decision-making, communication, planning, ethical work.
+
+**Unit 16: Digital 2D and 3D Graphics**
+- **Level**: 3
+- **Type**: Internal
+- **Guided Learning Hours (GLH)**: 60
+- **Brief**: Explore digital graphics’ purpose/characteristics, design/create 2D/3D graphics for media products.
+- **Learning Aims**:
+  - A: Investigate purpose/characteristics of digital graphics in visual communications.
+  - B: Design 2D/3D digital graphics to meet a client brief.
+  - C: Develop 2D/3D digital graphics to meet a client brief.
+- **Assessment**:
+  - Maximum two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aims B and C: B.P3, B.P4, C.P5, C.P6, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: Purpose/legal requirements (convey information/messages, visualize ideas; legal: local regulations).
+  - **A2**: Representation/applications:
+    - Raster: 2D arrays, resolution, bit depth, colour modes; used in website graphics, print ads, game assets.
+    - Vector: geometrical primitives, nodes, paths; used in UI, logos, icons, fonts, game assets.
+    - 3D: vertices, edges, polygons, mesh, rendering (lighting, ray tracing); used in games, VR, animation, simulations.
+    - Impact: scalability, colour management, anti-aliasing.
+  - **A3**: Hardware/software (capture: camera, scanner, tablet; graphics card: RAM, cache; output: screen, printer; software: Inkscape, Photoshop, Blender; impact: export ratios, compression, file formats).
+  - **B1**: Planning (stimulus: client brief, research; techniques: brainstorming, mood boards; quality: image, compatibility; file formats).
+  - **B2**: Design documentation (brief: audience, purpose; research: market, process; themes: ergonomics, aesthetics; legal/ethical: copyright, accessibility; sketches, platform, hardware/software requirements, ready-made assets).
+  - **B3**: Processing/techniques (editing: rotation, scaling; compression: lossless/lossy; user experience: quality, usability, hardware/software requirements).
+  - **B4**: Reviewing/refining (client feedback, communication, updating specifications).
+  - **C1**: Tools/techniques:
+    - 2D: freehand draw, transformations, filters, layering, typography.
+    - 3D: geometric models, mesh, NURBS, virtual camera, texturing, rendering.
+  - **C2**: Reviewing final products (client requirements, quality: composition, balance; legal/ethical constraints; technical: file formats, polygon count; optimization: bit depth, compression; improvements).
+  - **C3**: Professional behaviors (planning skills development, feedback, professionalism, accountability, evaluating targets).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain purpose/legal considerations.
+    - A.P2: Explain technical characteristics, limited usability/accuracy impact.
+    - B.P3: Produce designs.
+    - B.P4: Review designs for refinements.
+    - C.P5: Develop products.
+    - C.P6: Review products against brief.
+  - **Merit**:
+    - A.M1: Discuss purpose/characteristics, usability/accuracy impact.
+    - B.M2: Justify design decisions.
+    - C.M3: Optimize products.
+  - **Distinction**:
+    - A.D1: Evaluate purpose/characteristics, usability/accuracy impact.
+    - BC.D2: Evaluate designs/optimized products.
+    - BC.D3: Demonstrate responsibility/creativity/self-management.
+- **Assessment Decisions**:
+  - **Distinction**: Clear evaluation, optimized products, high-quality communication.
+  - **Merit**: Logical discussion, justified designs, technically accurate.
+  - **Pass**: Basic explanations, some inaccuracies, basic designs.
+- **Resources**: Image-editing (Photoshop, Pencil), 3D-modeling (Blender, Maya).
+- **Links**: Units 6, 7, 8, 14, 17.
+- **Employability Skills**: Analytical, communication, tool selection, self-management, ethical work.
+
+**Unit 17: Digital Animation and Effects**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Explore digital animations/effects, create an animation with effects for media products.
+- **Learning Aims**:
+  - A: Investigate purpose/characteristics of digital animations/effects in communication.
+  - B: Design a digital animation/effects product to meet a client brief.
+  - C: Develop a digital animation/effects product to meet a client brief.
+- **Assessment**:
+  - Maximum two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aims B and C: B.P3, B.P4, C.P5, C.P6, C.P7, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: Purpose/legal requirements (animations: motion illusion; effects: add special effects; purpose: convey information/entertainment; legal: defamation, licensing, copyright).
+  - **A2**: Animation techniques (frame-by-frame, cel tracing, key framing, vector/raster, 3D: coordinates, kinematics, morphing; impact: movement, frame rate, usability).
+  - **A3**: Effects principles:
+    - Visual: motion tracking, compositing, augmented/virtual reality.
+    - Audio: synchronization, mixing, compression; impact: file formats, user engagement.
+  - **A4**: Hardware/software (capture: camera, tablet; graphics card; output: screen, VR; software: Pencil2D, Blender, Adobe Premiere, Audacity; impact: rendering time, resolution).
+  - **B1**: Planning (stimulus: client brief; techniques: brainstorming; quality: image, compatibility; compression).
+  - **B2**: Design documentation (brief: audience, purpose; research: market; design: story, characters, sound; pre-production: scripts, storyboards; platform, hardware/software, test plans, legal/ethical: copyright, libel).
+  - **B3**: Reviewing/refining (client/user feedback, communication, updating documentation).
+  - **C1**: Tools/techniques:
+    - Animations: frame rates, tweening, rotoscoping, rendering.
+    - Effects: colour correction, keying, audio mixing, timeline editing.
+    - Storage: file formats, compression, platform requirements.
+  - **C2**: Creating product (originate/import assets, combine layers, add effects).
+  - **C3**: Testing (functionality, compatibility, feedback, improvements).
+  - **C4**: Reviewing final product (quality, suitability, legal/ethical, technical constraints, optimization).
+  - **C5**: Professional behaviors (planning skills, feedback, professionalism, accountability).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain purpose/legal requirements.
+    - A.P2: Explain technical characteristics, limited impact.
+    - B.P3: Produce designs.
+    - B.P4: Review designs for refinements.
+    - C.P5: Create product.
+    - C.P6: Test product.
+    - C.P7: Review product against brief.
+  - **Merit**:
+    - A.M1: Discuss purpose/characteristics, impact.
+    - B.M2: Justify design decisions.
+    - C.M3: Optimize product.
+  - **Distinction**:
+    - A.D1: Evaluate purpose/characteristics, impact.
+    - BC.D2: Evaluate design/optimized product.
+    - BC.D3: Demonstrate responsibility/creativity/self-management.
+- **Assessment Decisions**:
+  - **Distinction**: Clear evaluation, optimized product, high-quality communication.
+  - **Merit**: Logical discussion, justified designs, technically accurate.
+  - **Pass**: Basic explanations, some inaccuracies, basic designs.
+- **Resources**: Animation (Adobe Animate, Blender), effects (Adobe Premiere, Audacity).
+- **Links**: Units 6, 7, 8, 16.
+- **Employability Skills**: Analytical, communication, tool selection, self-management, ethical work.
+
+**Unit 18: The Internet of Things**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Explore IoT systems/services, design/develop a prototype IoT system/device.
+- **Learning Aims**:
+  - A: Examine IoT systems/services.
+  - B: Develop a design for an IoT system/device.
+  - C: Prototype an integrated IoT system/device.
+- **Assessment**:
+  - Maximum two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1.
+  - Learning Aims B and C: B.P3, B.P4, C.P5, C.P6, B.M2, C.M3, BC.D2, BC.D3.
+- **Content**:
+  - **A1**: Purpose/applications (improve productivity, safety, efficiency; sectors: home, health, industry, retail).
+  - **A2**: Principles (data collection/analysis, real-time/analogue data, always-on connectivity, data flow spectrum).
+  - **A3**: Characteristics (risks: security, privacy; legal: data protection; sustainability; technical: low mobility, time-controlled, low power, location triggers).
+  - **B1**: Design process (problem definition, client brief, prototypes, diagrams, feedback, constraints).
+  - **B2**: M2M architecture (sensors, wired/wireless communication, actuators, device/network/application domains).
+  - **B3**: Technical standards (ISO, IEEE, LoRa; M2M interfaces, reference frameworks).
+  - **B4**: Communication requirements (message delivery, unicast/multicast, priority, logging, device integrity, timestamps).
+  - **B5**: Security (threats: tampering, hacking; protection: encryption, SSL, code signing).
+  - **C1**: M2M operations (connectivity, device management, database, event triggers, visualization).
+  - **C2**: Programming (development environment, hardware setup, visual/non-visual constructs: input/output, control, logic, arithmetic).
+  - **C3**: IoT analytics (extrapolation, metering/billing, actuator activation).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Describe purpose/applications.
+    - A.P2: Explain principles/characteristics.
+    - B.P3: Produce design.
+    - B.P4: Review design for improvements.
+    - C.P5: Develop prototype with partial functionality.
+    - C.P6: Review prototype against requirements.
+  - **Merit**:
+    - A.M1: Compare purpose/applications/principles.
+    - B.M2: Justify design decisions.
+    - C.M3: Develop functional prototype.
+  - **Distinction**:
+    - A.D1: Evaluate purpose/applications/principles.
+    - BC.D2: Evaluate optimized design.
+    - BC.D3: Optimize prototype, demonstrate responsibility/self-management.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation, optimized prototype, high-quality communication.
+  - **Merit**: Reasoned comparison, functional prototype, technically accurate.
+  - **Pass**: Basic descriptions, partial functionality, some inaccuracies.
+- **Resources**: ThingSpeak, Cisco Packet Tracer, hardware (Arduino, Raspberry Pi), sensors, IBM Cloud, Node-RED, Python, Java, C++.
+- **Links**: Units 4, 6, 7, 8, 9, 11, 13, 14, 15.
+- **Employability Skills**: Analytical, communication, tool selection, self-management, ethical work.
+
+**Unit 19: Enterprise in IT**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Develop skills for IT product/service enterprise, create marketing/start-up plans.
+- **Learning Aims**:
+  - A: Explore enterprise/entrepreneurship in IT.
+  - B: Develop a marketing plan based on market research.
+  - C: Present a start-up plan using lean/traditional principles.
+- **Assessment**:
+  - Maximum three summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.M2, A.D1.
+  - Learning Aim B: B.P3, B.P4, B.P5, B.M3, B.D2.
+  - Learning Aim C: C.P6, C.P7, C.M4, C.D3.
+- **Content**:
+  - **A1**: Entrepreneurship principles (creativity, market gaps, skills: expertise, motivation; success factors: teamwork, finance, USP; attributes: confidence, adaptability; planning: lean canvas, traditional plans; technologies: 3D printing, cloud).
+  - **A2**: Skills audit/teamwork (identify entrepreneurial/IT skills, gaps, team-building, collaboration, mentoring).
+  - **B1**: Select product/service (criteria: features, sustainability, security, usability, financial viability; collateral: storyboards, prototypes; skills: product/market knowledge).
+  - **B2**: Market research (factors: target market, trends, competitors; methods: surveys, questionnaires; analysis: statistics, conclusions, limitations).
+  - **B3**: Marketing planning (strategy, components: USP, pricing, promotion, distribution; testing: beta versions, simulations; monitoring: sales, market share).
+  - **C1**: Lean planning (minimum viable product, continuous deployment, split testing, pivoting, build-measure-learn).
+  - **C2**: Traditional planning (executive summary, legal structure, finance, market analysis, KPIs, appendices).
+  - **C3**: Start-up plan (produce lean/traditional plan, present, gather feedback, review).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain principles/characteristics.
+    - A.P2: Audit skills, describe gaps.
+    - B.P3: Select idea.
+    - B.P4: Research market, some inconsistencies.
+    - B.P5: Create marketing plan, some inconsistencies.
+    - C.P6: Produce basic plan.
+    - C.P7: Present plan, some lack of clarity.
+  - **Merit**:
+    - A.M1: Discuss principles/characteristics.
+    - A.M2: Audit skills, explain gap solutions.
+    - B.M3: Develop reasoned marketing plan.
+    - C.M4: Present reasoned plan.
+  - **Distinction**:
+    - A.D1: Evaluate principles, justify gap solutions.
+    - B.D2: Evaluate comprehensive marketing plan.
+    - C.D3: Present clear, effective plan.
+- **Assessment Decisions**:
+  - **Distinction**: Comprehensive evaluation, effective plans, high-quality communication.
+  - **Merit**: Reasoned discussion, justified plans, technically accurate.
+  - **Pass**: Basic explanations, some inaccuracies, basic plans.
+- **Resources**: Information on IT enterprises, new/small business case studies.
+- **Links**: None specified.
+- **Employability Skills**: Analytical, communication, tool selection, self-management, ethical work.
+
+**Unit 20: Business Process Modelling Tools**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Investigate business processes, model a process, develop an improvement plan.
+- **Learning Aims**:
+  - A: Investigate processes supporting organizational activities.
+  - B: Examine business processes to inform improvements.
+  - C: Develop a plan to improve business processes.
+- **Content**:
+  - **A1**: Business aims/objectives (mission statements, goals, service level, customer satisfaction, quality, pricing).
+  - **A2**: Organizational models (sole trader, partnership, limited company, charity, private/public; sectors: primary, secondary, tertiary; functions: operations, finance, customer service, sales/marketing, R&D, HR; interlinks).
+  - **A3**: Business processes (management: strategic planning; operational: purchasing, manufacturing, sales, marketing; supporting: accounts, recruitment, technical support).
+  - **A4**: Drivers for change (productivity, shorter timescales, competitiveness, cost reduction, technology, political/economic/social pressures, legal/regulatory).
+  - **B1**: Investigation methods (observation, documentation inspection, staff interviews; recording: video, audio, notes).
+  - **B2**: Process analysis (purpose, nature: paper-based, physical, IT-based; inputs/outputs, attributes, subprocesses, activities, rules, decisions).
+  - **B3**: Modelling tools (flow diagrams, decision tables, use case diagrams, activity diagrams).
+  - **C1**: Innovation sources (R&D, customer/employee suggestions, collaboration, market research; methods: brainstorming, cause/effect diagrams).
+  - **C2**: Process redesign (BPR: align to objectives, use technology, analyze as-is, design to-be, implement/test; technologies: shared databases, expert systems, remote working, RFID, GPS).
+  - **C3**: Change management (effects: staffing, resources, customers; risks: unrealized benefits, disruption, employee dissatisfaction, complex technology, cost overruns; mitigation: project planning, prototyping, testing, communication, training).
+  - **C4**: Skills (planning, feedback, professionalism, etiquette, leadership, accountability, communication: written, verbal, tone, jargon avoidance).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Explain how business processes support requirements.
+    - A.P2: Explain technology use and potential impact.
+    - B.P3: Produce clear model of existing process.
+    - B.P4: Assess process, identify improvements.
+    - C.P5: Produce improvement plan with technology/change management.
+    - C.P6: Assess feedback use to refine plan.
+  - **Merit**:
+    - A.M1: Analyze process/technology impact.
+    - B.M2: Analyze how process supports requirements.
+    - C.M3: Justify plan decisions.
+  - **Distinction**:
+    - A.D1: Evaluate technology effectiveness.
+    - BC.D2: Evaluate plan against model, showing new process effectiveness.
+- **Assessment**:
+  - Maximum two summative assignments.
+  - Evidence: reports, blogs, presentations, interview recordings, observation statements, annotated diagrams, discussion records, feedback.
+- **Assessment Decisions**:
+  - **Pass**: Explanations with some inaccuracies, limited real-life examples.
+  - **Merit**: Reasoned analysis, real-life examples, technically accurate.
+  - **Distinction**: Clear evaluation, reasoned judgments, high-quality communication, real-life examples.
+- **Resources**: Access to local employers for investigation/planning.
+- **Links**: Units 2, 5, 14, 19.
+- **Employability Skills**: Analytical, decision-making, formal communication, IT tool selection, self-management, ethical work.
+
+**Unit 21: Introduction to Artificial Intelligence (AI)**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Explore AI applications, develop an AI solution for a problem.
+- **Learning Aims**:
+  - A: Investigate AI uses/applications.
+  - B: Plan/prepare an AI solution.
+  - C: Develop an AI solution.
+- **Content**:
+  - **A1**: AI concepts (weak vs. strong AI; types: reactive, limited memory, theory of mind, self-awareness; subsets: machine learning, computer vision, deep learning, NLP, expert systems; links: computer science, math, psychology, linguistics; applications: prediction, anomaly detection, knowledge mining, conversational AI, advertising, facial recognition; industries: retail, transportation, finance, public services).
+  - **A2**: Implications (ethical/legal: data security, privacy (GDPR), bias, safety-critical judgment, social/economic impact, polarization; explainable AI; development pipeline: define goals, data audit, research, design/build, deploy; organizational factors: business, human, technical capacity; benefits, risks, drawbacks; solution selection).
+  - **B1**: Data (types: structured, unstructured, semi-structured, time-series; sources: web, POS, e-commerce, IoT, corporate; big data: volume, variability, velocity, veracity, value; qualitative vs. quantitative; processing: descriptive, diagnostic, ETL, predictive, prescriptive, visualization).
+  - **B2**: Data preparation (select sources, reduce bias, access reliable data, cleanse, remove redundancy, combine/aggregate, check validity; formats: JSON, CSV, XML; legislative/ethical/security: local laws, anonymity, privacy, protection; training/validation/testing datasets).
+  - **C1**: AI models (supervised: classification, regression; unsupervised: clustering, dimensionality reduction; outputs: number, class, groups, features; models: linear/logistic regression, ARIMA, SVM, trees/forests, Bayesian, K-means, PCA, KNN; neural networks: uses, benefits, drawbacks).
+  - **C2**: Tools (explainable AI, visualization/dashboarding; languages: Python, Lisp, R, Java; libraries: TensorFlow, OpenNN, OpenCV, Weka, Hadoop; IDE tools: code highlighting, completion, interpreter, debugger, Git; cloud: Azure AI, SageMaker, Google AI).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Describe AI concepts in industry.
+    - A.P2: Explain benefits, risks, drawbacks.
+    - B.P3: Define AI project objectives.
+    - B.P4: Gather/prepare data sets.
+    - C.P5: Develop AI solution with programming/tools.
+  - **Merit**:
+    - A.M1: Analyze benefits, risks, drawbacks, industry impact.
+    - B.M2: Review/refine data sets for quality.
+    - C.M3: Test/refine AI solution.
+  - **Distinction**:
+    - A.D1: Evaluate AI impact on industries.
+    - BC.D2: Evaluate AI solution effectiveness.
+- **Assessment**:
+  - Maximum two summative assignments.
+  - Evidence: written report (A), portfolio (B, C: objectives, data collection, coding, testing, evaluation).
+- **Assessment Decisions**:
+  - **Pass**: Logically structured, may be basic, limited AI subsets, unbalanced risks/benefits, minor inaccuracies.
+  - **Merit**: Logically structured, technically accurate, considers AI types, benefits, risks, ethical/legislative factors.
+  - **Distinction**: Logically structured, high-quality communication, evaluates AI types, contexts, benefits, risks, ethical/legislative factors, supported judgments.
+- **Resources**: Large datasets, IDEs, programming languages, AI libraries, cloud (AWS SageMaker, Google AI).
+- **Links**: Units 4, 10, 18, 22, 23.
+- **Employability Skills**: Problem-solving, data handling.
+
+**Unit 22: Introduction to Robotics and Automation**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Explore robotics/automation applications, design/build a physical robot.
+- **Learning Aims**:
+  - A: Investigate automation/robotics use.
+  - B: Design an automated solution.
+  - C: Produce an automated solution.
+- **Content**:
+  - **A1**: Fundamentals (robot components: mechanical, sensory, data, control; sensors/data/algorithms/devices interaction; data sources: IoT, sensors, AI; sensor types: light, sound, temperature, moisture; physical robots vs. RPA; automation levels: semi/full).
+  - **A2**: Applications (industry: farming, health, logistics, manufacturing, police; society: transportation, smart cities, smart homes; considerations: benefits, drawbacks, ethical (data security, privacy, job loss, AI bias, inequality), deployment suitability).
+  - **B1**: Design documentation (context, problem, solution, functional/non-functional requirements, algorithm: flowcharts, pseudocode; physical: components, system diagrams; logical: software, deployment stack, addressing, data sources, threshold triggers).
+  - **C1**: Coding/connecting (languages: Python, C, SQL, Java, Kotlin; IDE tools: libraries, protocols, drivers, input/output, data handling; hardware: control (Raspberry Pi, Arduino), monitoring/output, physical output, user input, power, sensors, storage).
+  - **C2**: Testing (test plan: software, hardware, automated, user; success criteria; test identification, purpose, data (valid, invalid, erroneous); document outcomes, errors, actions, retest).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Describe robotics/automation in industry/society.
+    - A.P2: Explain benefits, drawbacks, considerations.
+    - B.P3: Produce designs for automated solution.
+    - B.P4: Review designs with feedback.
+    - C.P5: Develop solution with hardware/software/data.
+    - C.P6: Test components, resolve defects.
+  - **Merit**:
+    - A.M1: Analyze benefits, drawbacks, considerations, impact.
+    - B.M2: Refine designs, justify changes.
+    - C.M3: Use iterative processes for robust solution.
+  - **Distinction**:
+    - A.D1: Evaluate impact on industries/society.
+    - BC.D2: Use iterative processes for robust, efficient solution.
+    - BC.D3: Evaluate solution effectiveness.
+- **Assessment**:
+  - Maximum two summative assignments.
+  - Evidence: report (A), portfolio (B, C: designs, feedback, solution, code, testing, evaluation).
+- **Assessment Decisions**:
+  - **Pass**: Logically structured, basic, limited range, unbalanced risks/benefits, minor inaccuracies.
+  - **Merit**: Logically structured, technically accurate, analyzes types, benefits, risks, ethical factors, robust solution, minor issues.
+  - **Distinction**: Logically structured, high-quality, evaluates types, contexts, benefits, risks, ethical factors, robust solution, maintainable code, excellent user experience.
+- **Resources**: Physical computing (motors, sensors, single-board computers), programming environments.
+- **Links**: Units 4, 18, 21.
+- **Employability Skills**: Problem-solving, analysis, ethics.
+
+**Unit 23: Emerging Trends and Technologies**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Explore computing developments, design/deploy a cloud-based solution.
+- **Learning Aims**:
+  - A: Investigate computing developments.
+  - B: Design a cloud computing solution.
+  - C: Deploy a cloud computing solution.
+- **Content**:
+  - **A1**: Technologies (computing power: processing, storage; communications: Bluetooth, Wi-Fi, 5G, fiber; quantum computing vs. traditional; neural networks; blockchain, smart contracts; cloud: IaaS, PaaS, SaaS, DaaS, serverless, containers, gaming, AI/ML; manufacturing: CAD/CAM, 3D printing, laser cutters; sustainability: data centers, batteries).
+  - **A2**: Human-computer interaction (AR, VR, mixed reality, UI/UX design, advanced HCI: haptics, head/eye tracking, NLP).
+  - **B1**: Planning (context, problem, functional/non-functional requirements: services, migration impacts, challenges; KPIs: speed, bandwidth; select provider: AWS, Google Cloud, Azure; tools: load balancing, scalability, threat detection; risks, mitigation).
+  - **C1**: Development (tools: virtual private cloud, VMs, storage, infrastructure/security: addressing, firewalls, IAM, load balancing, scaling; databases, webservers).
+  - **C2**: Monitoring/reviewing (testing: functional, user, performance, stress, security; select users, gather feedback; provider tools: Azure Monitor, CloudWatch; respond to issues: security, software updates, compatibility, changing requirements).
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Describe trends/technologies, industry/society impact.
+    - A.P2: Describe HCI developments.
+    - B.P3: Produce plans for cloud solution.
+    - B.P4: Review designs with feedback.
+    - C.P5: Develop cloud solution.
+    - C.P6: Test/monitor, implement improvements.
+  - **Merit**:
+    - A.M1: Analyze computing developments, impact.
+    - B.M2: Refine designs, justify changes.
+    - C.M3: Use iterative methodologies to refine solution.
+  - **Distinction**:
+    - A.D1: Evaluate computing developments, impact.
+    - BC.D2: Evaluate design/development against requirements.
+- **Assessment**:
+  - Maximum two summative assignments.
+  - Evidence: report (A), portfolio (B, C: plans, feedback, solution, testing, evaluation).
+- **Assessment Decisions**:
+  - **Pass**: Logically structured, basic, limited range, unbalanced risks/benefits, minor inaccuracies.
+  - **Merit**: Logically structured, technically accurate, analyzes technologies, benefits, risks, robust solution, minor issues.
+  - **Distinction**: Logically structured, high-quality, evaluates technologies, contexts, benefits, risks, comprehensive evaluation, maintainable code.
+- **Resources**: IDE, web development tools, database systems, cloud environments.
+- **Links**: Units 4, 6, 13, 15, 25.
+- **Employability Skills**: Planning, time management, problem-solving.
+
+**Unit 24: Technical Fundamentals for Computing Professionals**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Study core IT skills, design a computer infrastructure solution.
+- **Learning Aims**:
+  - A: Explore mathematics, logic, processes of computer systems.
+  - B: Investigate issues with digital systems.
+  - C: Design a computer infrastructure solution.
+- **Content**:
+  - **A1**: Number systems (digital data: bit, byte, KB, MB; binary, hexadecimal; binary representation; operations: conversion, addition, subtraction, division, multiplication, shifts; negative/floating-point numbers, overflow, file size calculations).
+  - **A2**: Coding/scripting (computational thinking: decomposition, pattern recognition, abstraction, algorithms; operators: mathematical, relational, Boolean; data types: string, integer, float, Boolean; constants, variables; structures: lists, arrays, tuples, dictionaries; sequencing, selection: IF, switch; iteration: count/condition-controlled; shell scripting: Bash, PowerShell, file management, software updates, batch processing, monitoring).
+  - **B1**: Cybersecurity (threats: internal (rogue employee, accidental breach, poor policies, misconfiguration), external (hackers, malware, social engineering, disasters); data privacy; mitigation: firewalls, anti-malware, device hardening, user access, policies, 2FA, biometrics; legislative requirements).
+  - **B2**: Health/safety (issues: RSI, back pain, eyestrain, tripping, electric shock; mitigation: workstation design, ergonomic equipment, policies, cable management, safe maintenance; fail-safe/zero errors in safety-critical systems).
+  - **B3**: Moral/ethical (equality, equity; accessibility: software (screen readers, alt-text, voice recognition), hardware (Braille keyboards, sip/puff, eye tracking); digital divide: economic, geographic, social, cultural).
+  - **C1**: Architecture (CPU: ALU, CU, cache, registers; general/special registers: accumulator, instruction, MAR, MDR, program counter; fetch-execute cycle; factors: clock speed, cores, cache, cooling, power, overclocking; mobile vs. desktop CPUs; GPUs; OS role).
+  - **C2**: Memory/storage (primary: RAM, ROM, virtual; secondary: HDD, SSD, USB, external, optical, RAID, NAS, SAN, tape; cloud vs. on-premise; OS role).
+  - **C3**: Data communication (layers, data packets: structure, switching; IP/MAC addresses; protocols: HTTP, FTP, IMAP, TCP/IP; connections: Ethernet, Wi-Fi, Bluetooth).
+  - **C4**: Network design (goals: data/resource sharing, communication, system creation, productivity; size: SOHO, SMB, enterprise; LAN/WAN: scalability, availability, redundancy, performance, security; models: on-site, cloud, hybrid (NaaS, PaaS, SaaS, DaaS); physical: flat/hierarchical, topologies, diagrams, equipment; logical: IP addressing, IPv4/IPv6, naming, VLAN).
+- **Assessment Criteria**:
+  - Maximum three summative assignments.
+  - Learning Aim A: A.P1, A.M1, A.D1.
+  - Learning Aim B: B.P2, B.P3, B.M2, B.D2.
+  - Learning Aim C: C.P4, C.P5, C.M3, C.D3.
+  - Evidence: scripts (A), formal report (B), design documentation (C).
+- **Assessment Decisions**:
+  - **Pass**: Basic programs/scripts, logical structure, some errors/inefficiencies; report describes issues/solutions, may be generic; design clear but may lack detail.
+  - **Merit**: Robust programs/scripts, logical/effective structures, minor issues; balanced analysis with examples; refined design with justified changes, clear for third-party use.
+  - **Distinction**: Highly robust/efficient programs/scripts, excellent user experience; comprehensive evaluation with contextual examples; refined design fully meets requirements, well-justified.
+- **Resources**:
+  - Integrated development environment (IDE) for programming languages.
+  - Diagramming software for network plans.
+- **Links**: Units 1, 11.
+- **Employability Skills**: Planning, problem-solving, decision-making.
+
+**Unit 25: Full Stack Development**
+- **Level**: 3
+- **Type**: Internal
+- **GLH**: 60
+- **Brief**: Study full stack development, design/create a solution for client requirements.
+- **Introduction**: Covers front-end/back-end technologies, iterative development, and testing. Prepares for higher education, IT apprenticeships, or roles like junior software developer. Recommended after Unit 4: Programming.
+- **Learning Aims**:
+  - A: Explore tools/technologies for full stack development.
+  - B: Design a full stack solution for a client.
+  - C: Develop a full stack solution for a client.
+- **Content**:
+  - **A1: Concept of Full Stack Development**:
+    - Stack structure, applications (small-scale solutions, prototyping, testing).
+    - Technologies: front-end (HTML, JavaScript, CSS), back-end (PHP, NodeJS, .Net), database (MySQL, PostgreSQL, MongoDB), version control (Git, CVS), infrastructure (AWS, Azure, virtualization, containers).
+    - Common stacks: LAMP, LEMP, MEAN, Django.
+    - Software engineering approaches: investigate, design, develop, test, review.
+    - Iterative methodologies: speed, quality vs. features, rapid response to changes.
+    - SDLC methodologies: agile (Kanban, Scrum), continuous integration/delivery.
+  - **A2: Implications**:
+    - Benefits/drawbacks, data security/privacy (e.g., GDPR), public vs. private information, third-party APIs, accessibility, system availability/compatibility.
+    - Cloud provider selection (AWS, Azure): availability, performance, security, costs, tools, legacy compatibility.
+  - **B1: Software Project Proposal**:
+    - Business context, problem, solution, functional/non-functional requirements, KPIs, risks (security, new services, timescales), business implications (processes, infrastructure).
+    - Considerations: technical (APIs, emerging tech), legal (compliance), operational (client needs), sustainability (energy, disposal), security/privacy.
+    - Justification: meeting requirements, risk mitigation, contextual considerations.
+  - **B2: Software Design Documentation**:
+    - Logical analysis, problem decomposition, abstraction, algorithmic thinking, reverse engineering.
+    - Documents: requirements specifications, algorithms (flowcharts, pseudocode), architecture (network, UML diagrams), visual design (UI, colour palettes), data (ERDs, dictionaries), accessibility/inclusivity.
+    - Component reuse: refactoring code, digital content, licensing compliance.
+    - Iterative design: feedback, analysis, approval, transition to development.
+  - **C1: Creating Software Solutions**:
+    - Computational thinking: decomposition, pattern recognition, abstraction, algorithms.
+    - Front-end/back-end breakdown, language selection.
+    - Procedural programming: variables, functions, data passing.
+    - Object-oriented programming: classes, inheritance, encapsulation, polymorphism.
+    - Tools/libraries for interaction: console, GUIs, data visualization.
+    - Data structures: lists, arrays, tuples, dictionaries.
+    - Data sources: local (.txt, .csv, JSON), remote (server/client-side scripting, SQL, APIs).
+  - **C2: Developing High-Quality Software**:
+    - Readable/maintainable code: style guides, naming conventions, comments, modularization.
+    - Code reuse: built-in functions, libraries, templates, shared components.
+    - IDE tools: syntax highlighting, code completion, debugger, Git integration.
+    - Defensive coding: input validation, sanitization, data hiding.
+    - User experience: consistent outputs, intuitive UI, accessibility.
+  - **C3: Testing and Reviewing**:
+    - Testing based on requirements, KPIs.
+    - Testing schedule: module, integration, automated, user testing.
+    - Test plans/UTCs: success criteria, test purpose, data (valid, invalid, erroneous).
+    - Execute/document UTCs: errors, outcomes, actions.
+    - Fix defects, record corrective actions.
+    - Stakeholders: client, development team, test users.
+    - Feedback methods: closed/open box, paired programming, user acceptance, beta testing.
+    - Feedback recording: user forms, bug reports, change logs, test logs, versioning.
+- **Assessment Criteria**:
+  - **Pass**:
+    - A.P1: Describe full stack programming use in industry.
+    - A.P2: Explain benefits, drawbacks, wider considerations.
+    - B.P3: Produce proposal/designs for full stack solution meeting client requirements.
+    - B.P4: Review designs with feedback for improvements.
+    - C.P5: Produce full stack solution meeting requirements.
+    - C.P6: Test/review solution to resolve defects.
+  - **Merit**:
+    - A.M1: Analyze benefits, drawbacks, considerations of full stack development.
+    - B.M2: Refine proposal/designs based on feedback, justifying changes.
+    - C.M3: Use iterative processes for effective front-end/back-end solution.
+  - **Distinction**:
+    - A.D1: Evaluate impact of full stack development.
+    - BC.D2: Evaluate design/development against requirements.
+- **Assessment**:
+  - Maximum two summative assignments.
+  - Learning Aim A: A.P1, A.P2, A.M1, A.D1 (written report).
+  - Learning Aims B/C: B.P3, B.P4, C.P5, C.P6, B.M2, C.M3, BC.D2 (portfolio: proposal, designs, solution, code, testing, feedback, evaluation).
+- **Assessment Decisions**:
+  - **Pass**: Basic report, limited tools, unbalanced risks/benefits; proposal/designs clear but lack detail; solution meets some requirements, basic testing, some errors persist.
+  - **Merit**: Accurate analysis, examples for three problems; refined proposal/designs, justified changes; robust solution, effective testing, minor issues.
+  - **Distinction**: Comprehensive evaluation, compares stacks (e.g., LAMP vs. Django); evaluates solution against requirements, considers alternatives, high-quality documentation.
+- **Resources**:
+  - IDE for programming languages.
+  - Cloud deployment environments.
+- **Links**: Units 4, 13.
+- **Employability Skills**: Planning, time management, problem-solving.
+
+**Programme Planning**
+- **Choosing Qualifications**:
+  - Range of sizes: Certificate, Subsidiary Diploma, Diploma, Extended Diploma.
+  - Certificate/Subsidiary Diploma: Flexible for complementary qualifications or progression options.
+  - Extended Diploma: Suited for sector-focused learners aiming for higher education.
+- **Learner Entry Requirements**:
+  - No formal requirements, but Level 2 qualifications expected (e.g., five International GCSEs, BTEC Level 2).
+  - Relevant work experience or aptitude via diagnostic tests.
+  - English proficiency: CEFR Level B2 or Pearson Global Scale of English 51 recommended.
+- **Centre Approval**:
+  - Must be approved to offer qualifications, ensuring assessment readiness and support.
+- **Teacher Expertise**:
+  - No set requirements, but centres should ensure teaching team has relevant, up-to-date skills/knowledge.
+- **Resources**:
+  - Physical resources (equipment, IT, teaching rooms) required.
+  - Specific resources per unit (e.g., IDEs, diagramming software).
+- **Pearson Progress**:
+  - Digital system for delivery, assessment, quality assurance (course creation, assignment verification, assessment planning).
+- **Delivery Modes**:
+  - Flexible: classroom instruction, practical work, group/peer work, private study, e-learning.
+- **Employer Involvement**:
+  - Encouraged for design, delivery, assessment to ensure relevance.
+  - Suggestions in units, but local opportunities can be explored.
+- **Support**:
+  - Curriculum plans, delivery guides, sample Pearson Set Assignments, Authorised Assignment Briefs.
+  - Standards Verifier support, training programmes, Subject Advisor team.
+- **Meeting Local Needs**:
+  - Optional units allow customization.
+  - Units from other BTEC specifications or new units can be commissioned (quality assured by Pearson at cost).
+  - Limits on imported/locally developed units: Subsidiary Diploma (60 GLH), Foundation Diploma (120 GLH), Diploma (180 GLH), Extended Diploma (240 GLH).
+- **Employability**:
+  - Mapped to occupational standards (Appendix 1).
+  - Focus on teamworking, entrepreneurialism, practical skills through relevant contexts/scenarios.
+
+**Assessment Structure**
+- **Types**:
+  - Internal assessments: Set/marked by teachers.
+  - Pearson Set Assignments: Set by Pearson, marked by teachers (mandatory units).
+- **Planning**:
+  - Consider unit delivery order, duration, assessment timing.
+  - Ensure sufficient time for teaching, formative assessment, skill development.
+- **Pearson Set Assignments**:
+  - Authorized assignments for mandatory units, not teacher-created.
+  - Some require controlled conditions (per unit details).
+  - Resubmission/retake regulations in Section 6.
+
+**Internal Assessment**
+- **Principles**:
+  - Assignments issued after teaching, distinct from teaching activities.
+  - Clear brief with start/completion dates, evidence requirements.
+  - Criteria-based decisions, hierarchical/holistic.
+  - Grades: Pass (all Pass criteria), Merit (all Merit + Pass), Distinction (all Distinction + Merit + Pass).
+  - Unclassified if Pass criteria not met.
+- **Assessment Team**:
+  - Lead Internal Verifier (Lead IV): Oversees programme, assessment, verification, liaison with Pearson.
+  - Internal Verifiers (IVs): Check assignment validity, assessment decisions.
+  - Assessors: Set/use assignments, make decisions.
+- **Organization**:
+  - Track learner progress, manage deadlines.
+  - Use Pearson Progress for planning/record keeping.
+- **Learner Preparation**:
+  - Understand assessment responsibilities, deadlines, authenticity.
+  - Centre guide on assignments, referencing, plagiarism.
+- **Authenticity**:
+  - Learners sign declaration of own work.
+  - Assessors ensure authenticity via valid assignments, supervision.
+  - Malpractice policies for suspected issues.
+- **Decisions**:
+  - Use unit criteria, judge evidence holistically.
+  - Support: unit guidance, glossary (Appendix 5), Pearson examples, standardisation.
+  - Formal decision recorded, validated by IV, no improvement feedback.
+- **Planning/Records**:
+  - Assessment plan: training, teaching/assessment time, deadlines, IV sampling.
+  - Records: IV of briefs, learner declarations, assessor decisions, feedback, tracking.
+- **Setting Assignments**:
+  - Follow unit structure, maximum assignments per Essential information.
+  - Can combine assignments/units if all learning aims addressed.
+  - Target learning aims, not split aims, ensure full grade range.
+  - Vocational scenario, clear tasks, audience/purpose.
+- **Evidence Forms**:
+  - Written reports, projects, practical assessments, recordings, logbooks, presentations.
+  - Must allow all criteria, independent work, verifier reassessment.
+- **Late Completion**:
+  - Clear centre policy, authorized extensions for valid reasons.
+  - Late submissions assessed normally, no resubmission if unauthorized.
+- **Resubmission**:
+  - One opportunity if approved by Lead IV, within 15 working days.
+  - No resubmission for late/unauthentic work.
+- **Retakes**:
+  - One retake with new assignment, Pass only, in exceptional cases, not timebound.
+
+**Administrative Arrangements**
+- **Registration/Entry**:
+  - Register learners early, arrange internal assessment.
+  - Transfer registrations if qualifications change.
+- **Access**:
+  - Fair administration, timely results for progression.
+  - Equality policy: no disadvantage for protected characteristics, fair comparison.
+- **Records**:
+  - Retain assessment records (decisions, adjustments, appeals).
+- **Adjustments**:
+  - Pre-assessment adjustments (time extensions, evidence format) for fairness.
+- **Special Consideration**:
+  - Post-assessment for adverse circumstances, per policy.
+  - Adjust time/format, not evidence type/criteria.
+- **Appeals**:
+  - Centre policy for incorrect/unfair decisions.
+  - Lead IV review, document resolution, final Pearson appeal if procedures not followed.
+- **Set Assignments**:
+  - Secure delivery, two authorized assignments annually.
+  - Medium control: Longer period, possible controlled conditions.
+  - Low control: Unsupervised research/preparation.
+  - Conditions: Time (adjustable), supervision, resource access, research.
+  - Confirm evidence authenticity.
+- **Malpractice**:
+  - Learner: Compromises assessment integrity (e.g., plagiarism).
+  - Staff/Centre: Maladministration, undermining assessment.
+  - Report learner malpractice (JCQ Form M1, candidatemalpractice@pearson.com).
+  - Report staff/centre malpractice (JCQ Form M2, pqsmalpractice@pearson.com).
+  - Penalties: Disqualification, registration bans, centre sanctions (action plans, training, blocks).
+  - Appeals via Heads of Centres, Investigations Team (pqsmalpractice@pearson.com).
+- **Certification**:
+  - Claim after completing all units, post-quality assurance.
+  - Decline grade for resits before certification.
+- **Documents**:
+  - BTEC International Quality Assurance Handbook.
+  - International Information Manual.
+  - Regulatory policies (adjustments, age, malpractice, prior learning).
+
+**Quality Assurance**
+- **Centre Approval**:
+  - Physical resources, qualified staff, CPD, health/safety policies, equality compliance.
+- **Continuing Assurance**:
+  - Annual BTEC International Quality Assurance Handbook.
+  - Approved centres abide by terms/conditions.
+  - Pearson provides resources, processes for standards.
+  - Protocols: Standardisation, monitoring, recording, special circumstances, appeals, malpractice.
+- **Methods**:
+  - Approval declarations, visits, trained assessment teams, sampling, strategy review.
+  - Non-compliant centres cannot certify, may lose approval.
+
+**Qualification Grading**
+- **Eligibility**:
+  - Complete all units, Pass or above in mandatory units.
+  - Achieve valid unit combination, minimum points at grade threshold.
+- **Outcomes**:
+  - Grades: Distinction (D), Merit (M), Pass (P), Unclassified (U).
+  - Smaller qualification possible if requirements met.
+- **Centre Responsibility**:
+  - Ensure correct unit combination.
+  - Learners not meeting minimum grades (P) in required units fail qualification.
+
+**Pearson BTEC International Level 3 Qualifications in Information Technology – Compensation and Grading**
+
+**Compensation Table**
+- **Certificate (180 GLH)**:
+  - Compensation Rule: No compensation allowed.
+  - Unit Equivalence: 0 units.
+- **Subsidiary Diploma (360 GLH)**:
+  - Compensation Rule: Mandatory units must be passed; 60 GLH only at U grade permitted from optional units.
+  - Unit Equivalence: 1 * 60 GLH unit.
+- **Foundation Diploma (540 GLH)**:
+  - Compensation Rule: Mandatory units must be passed; 120 GLH only at U grade permitted from optional units.
+  - Unit Equivalence: e.g., 2 * 60 GLH units OR 1 * 120 GLH unit.
+- **Diploma (720 GLH)**:
+  - Compensation Rule: Mandatory units must be passed; 180 GLH only at U grade permitted from optional units.
+  - Unit Equivalence: e.g., 3 * 60 GLH units OR 1 * 60 GLH and 1 * 120 GLH unit.
+- **Extended Diploma (1080 GLH)**:
+  - Compensation Rule: Mandatory units must be passed; 180 GLH only at U grade permitted from optional units.
+  - Unit Equivalence: e.g., 3 * 60 GLH units OR 1 * 60 GLH and 1 * 120 GLH unit.
+
+**Calculation of Qualification Grade**
+- The final grade aggregates a learner’s performance across the qualification, allowing some compensation where higher performance in some units balances lower outcomes in others.
+- If a learner completes more than the required optional units, mandatory units and the highest-graded optional units are used to calculate the overall result, subject to eligibility requirements.
+- **Available Grade Ranges**:
+  - Certificate, Subsidiary Diploma, Foundation Diploma: P to D*.
+  - Diploma: PP to D*D*.
+  - Extended Diploma: PPP to D*D*D*.
+- Learners not meeting minimum requirements are recorded as Unclassified (U) and not certificated, but may receive a Notification of Performance for individual units.
+- Pearson automatically calculates the qualification grade when unit grades are submitted and the qualification claim is made.
+- The Calculation of Qualification Grade table is subject to review; updates will be issued on the Pearson website.
+
+**Points Available for Unit Size and Grades**
+- **Unit Size and Points**:
+  - 60 GLH: U (0), Pass (6), Merit (10), Distinction (16).
+  - 90 GLH: U (0), Pass (9), Merit (15), Distinction (24).
+  - 120 GLH: U (0), Pass (12), Merit (20), Distinction (32).
+
+**Calculation of Qualification Grade Table (Applicable from 1 April 2020)**
+- **Certificate (180 GLH)**:
+  - Unclassified: 0 points.
+  - Pass: 18 points.
+  - Merit: 26 points.
+  - Distinction: 42 points.
+  - Distinction*: 48 points.
+- **Subsidiary Diploma (360 GLH)**:
+  - Unclassified: 0 points.
+  - Pass: 36 points.
+  - Merit: 52 points.
+  - Distinction: 74 points.
+  - Distinction*: 90 points.
+- **Foundation Diploma (540 GLH)**:
+  - Unclassified: 0 points.
+  - Pass: 54 points.
+  - Merit: 78 points.
+  - Distinction: 108 points.
+  - Distinction*: 138 points.
+- **Diploma (720 GLH)**:
+  - Unclassified: 0 points.
+  - PP: 72 points.
+  - MP: 88 points.
+  - MM: 104 points.
+  - DM: 124 points.
+  - DD: 144 points.
+  - D*D: 162 points.
+  - D*D*: 180 points.
+- **Extended Diploma (1080 GLH)**:
+  - Unclassified: 0 points.
+  - PPP: 108 points.
+  - MPP: 124 points.
+  - MMP: 140 points.
+  - MMM: 156 points.
+  - DMM: 176 points.
+  - DDM: 196 points.
+  - DDD: 216 points.
+  - D*DD: 234 points.
+  - D*D*D: 252 points.
+  - D*D*D*: 270 points.
+
+**Examples of Grade Calculations (From April 2020)**
+- **Certificate**:
+  - **Example 1 (P Grade)**: Unit 1 (120 GLH, PSA, Pass, 12 points), Unit 5 (60 GLH, Int, Pass, 6 points). Total: 180 GLH, 18 points (P).
+  - **Example 2 (M Grade)**: Unit 1 (120 GLH, PSA, Pass, 12 points), Unit 5 (60 GLH, Int, Distinction, 16 points). Total: 180 GLH, 28 points (M).
+  - **Example 3 (Unclassified)**: Unit 1 (120 GLH, PSA, Unclassified, 0 points), Unit 5 (60 GLH, Int, Distinction, 16 points). Total: 180 GLH, 16 points (Unclassified due to Unit 1).
+- **Subsidiary Diploma**:
+  - **Example 1 (P Grade)**: Unit 1 (120 GLH, PSA, Pass, 12 points), Unit 3 (90 GLH, Int, Merit, 15 points), Unit 6 (60 GLH, PSA, Merit, 10 points), Unit 9 (90 GLH, Int, Unclassified, 0 points). Total: 360 GLH, 37 points (P).
+  - **Example 2 (M Grade)**: Unit 1 (120 GLH, PSA, Pass, 20 points), Unit 3 (90 GLH, Int, Distinction, 24 points), Unit 6 (60 GLH, PSA, Merit, 10 points), Unit 9 (90 GLH, Int, Merit, 15 points). Total: 360 GLH, 69 points (M).
+  - **Example 3 (Unclassified)**: Unit 1 (120 GLH, PSA, Merit, 20 points), Unit 3 (90 GLH, Int, Distinction, 24 points), Unit 6 (60 GLH, PSA, Unclassified, 0 points), Unit 9 (90 GLH, Int, Merit, 15 points). Total: 360 GLH, 59 points (Unclassified due to Unit 6).
+- **Foundation Diploma**:
+  - **Example 1 (P Grade)**: Unit 1 (120 GLH, PSA, Pass, 12 points), Unit 3 (90 GLH, Int, Pass, 9 points), Unit 5 (60 GLH, Int, Pass, 6 points), Unit 6 (60 GLH, PSA, Merit, 10 points), Unit 7 (60 GLH, Int, Pass, 6 points), Unit 9 (90 GLH, Int, Pass, 9 points), Unit 12 (60 GLH, Int, Pass, 6 points). Total: 510 GLH, 58 points (P).
+  - **Example 2 (M Grade)**: Unit 1 (120 GLH, PSA, Pass, 12 points), Unit 3 (90 GLH, Int, Merit, 15 points), Unit 5 (60 GLH, Int, Distinction, 16 points), Unit 6 (60 GLH, PSA, Merit, 10 points), Unit 7 (60 GLH, Int, Merit, 10 points), Unit 9 (90 GLH, Int, Pass, 9 points), Unit 12 (60 GLH, Int, Merit, 10 points). Total: 510 GLH, 82 points (M).
+  - **Example 3 (Unclassified)**: Unit 1 (120 GLH, PSA, Pass, 12 points), Unit 3 (90 GLH, Int, Merit, 15 points), Unit 5 (60 GLH, Int, Merit, 10 points), Unit 6 (60 GLH, PSA, Unclassified, 0 points), Unit 7 (60 GLH, Int, Merit, 10 points), Unit 9 (90 GLH, Int, Distinction, 24 points), Unit 12 (60 GLH, Int, Merit, 10 points). Total: 510 GLH, 81 points (Unclassified due to Unit 6).
+- **Diploma**:
+  - **Example 1 (PP Grade)**: Unit 1 (120 GLH, PSA, Pass, 12 points), Unit 3 (90 GLH, Int, Pass, 9 points), Unit 5 (60 GLH, Int, Pass, 6 points), Unit 6 (60 GLH, PSA, Pass, 6 points), Unit 7 (60 GLH, Int, Merit, 10 points), Unit 9 (90 GLH, Int, Pass, 9 points), Unit 12 (60 GLH, Int, Pass, 6 points), Unit 13 (60 GLH, Int, Pass, 6 points), Unit 14 (60 GLH, Int, Pass, 6 points), Unit 15 (60 GLH, Int, Merit, 10 points). Total: 720 GLH, 80 points (PP).
+  - **Example 2 (Unclassified)**: Unit 1 (120 GLH, PSA, Pass, 12 points), Unit 3 (90 GLH, Int, Merit, 15 points), Unit 5 (60 GLH, Int, Pass, 6 points), Unit 6 (60 GLH, PSA, Unclassified, 0 points), Unit 7 (60 GLH, Int, Merit, 10 points), Unit 9 (90 GLH, Int, Pass, 9 points), Unit 12 (60 GLH, Int, Merit, 6 points), Unit 13 (60 GLH, Int, Merit, 10 points), Unit 14 (60 GLH, Int, Pass, 10 points), Unit 15 (60 GLH, Int, Merit, 10 points). Total: 720 GLH, 88 points (Unclassified due to Unit 6).
+- **Extended Diploma**:
+  - **Example 1 (MPP Grade)**: Unit 1 (120 GLH, PSA, Pass, 12 points), Unit 2 (90 GLH, Int, Pass, 9 points), Unit 3 (90 GLH, Int, Pass, 9 points), Unit 4 (90 GLH, Int, Pass, 9 points), Unit 5 (60 GLH, Int, Pass, 6 points), Unit 6 (60 GLH, PSA, Pass, 6 points), Unit 7 (60 GLH, Int, Merit, 10 points), Unit 9 (90 GLH, Int, Pass, 9 points), Unit 10 (60 GLH, Int, Merit, 10 points), Unit 11 (120 GLH, PSA, Distinction, 20 points), Unit 12 (60 GLH, Int, Pass, 6 points), Unit 13 (60 GLH, Int, Merit, 10 points), Unit 14 (60 GLH, Int, Merit, 10 points), Unit 20 (60 GLH, Int, Merit, 10 points). Total: 1080 GLH, 136 points (MPP).
+  - **Example 2 (DMM Grade)**: Unit 1 (120 GLH, PSA, Distinction, 32 points), Unit 6 (60 GLH, PSA, Merit, 10 points), Unit 2 (90 GLH, Int, Pass, 9 points), Unit 3 (90 GLH, Int, Merit, 15 points), Unit 4 (90 GLH, Int, Distinction, 24 points), Unit 5 (60 GLH, Int, Pass, 6 points), Unit 7 (60 GLH, Int, Merit, 10 points), Unit 9 (90 GLH, Int, Distinction, 24 points), Unit 10 (60 GLH, Int, Unclassified, 0 points), Unit 11 (120 GLH, PSA, Pass, 12 points), Unit 12 (60 GLH, Int, Merit, 10 points), Unit 13 (60 GLH, Int, Merit, 10 points), Unit 14 (60 GLH, Int, Merit, 10 points), Unit 20 (60 GLH, Int, Distinction, 16 points). Total: 1080 GLH, 188 points (DMM).
+  - **Example 3 (Unclassified)**: Unit 1 (120 GLH, PSA, Unclassified, 0 points), Unit 2 (90 GLH, Int, Pass, 9 points), Unit 3 (90 GLH, Int, Merit, 15 points), Unit 4 (90 GLH, Int, Merit, 15 points), Unit 5 (60 GLH, Int, Pass, 6 points), Unit 6 (60 GLH, PSA, Unclassified, 0 points), Unit 7 (60 GLH, Int, Pass, 6 points), Unit 9 (90 GLH, Int, Distinction, 24 points), Unit 10 (60 GLH, Int, Unclassified, 0 points), Unit 11 (120 GLH, PSA, Distinction, 32 points), Unit 12 (60 GLH, Int, Merit, 10 points), Unit 13 (60 GLH, Int, Merit, 10 points), Unit 14 (60 GLH, Int, Merit, 10 points), Unit 15 (60 GLH, Int, Pass, 6 points). Total: 1080 GLH, 145 points (Unclassified due to Units 1 and 6).
+
+**Resources and Support**
+- **Specification**: Details administration and unit information (teaching from April 2020).
+- **Pearson Progress**: Digital system for managing assessment and quality assurance, supporting course creation, assignment verification, assessment planning, evidence upload, and progress tracking.
+- **Teaching and Learning Support**:
+  - Free resources: Delivery guides, sample schemes of work, slide presentations, delivery plans.
+  - Paid resources: Teacher resource packs, student study texts.
+- **Assessment Support**:
+  - Sample Pearson Set Assignments for internal units.
+  - Authorised Assignment Briefs approved by Pearson Standards Verifiers.
+- **Pearson English**: Support for English learning (diagnostics, qualifications, resources).
+- **Training and Support**:
+  - Subject Advisors for sector-specific queries.
+  - Standards Verifiers for assignment preparation and quality assurance.
+  - Regional teams for network events.
+  - Customer Services for general queries.
+  - Training events: ‘Getting Ready to Teach’, sector-specific teaching/learning events.
+
+**Appendix 1: Links to Industry Standards**
+- **ITPS**: Qualifications reflect UK Level 3 National Occupational Standards in IT Professional Standards (ITPS) 4.0.
+- **Microsoft Computer Science Curriculum**: All units mapped, with new units created:
+  - Unit 21: Introduction to Artificial Intelligence.
+  - Unit 22: Introduction to Robotics and Automation.
+  - Unit 23: Emerging Trends and Technologies.
+  - Unit 24: Technical Fundamentals for Computing Professionals.
+  - Unit 25: Full Stack Development.
+  - More info: https://www.microsoft.com/en-gb/education/lcw/computerscience.
+- **Certiport Certifications**:
+  - **Microsoft Fundamentals**:
+    - Units 1, 10: Mapped to Azure Data Fundamentals (DP-900).
+    - Unit 15: Mapped to Azure Fundamentals (AZ-900).
+    - Resources: https://aka.ms/learn, https://aka.ms/msle, https://certiport.pearsonvue.com/Certifications/Microsoft/MCF/Overview.
+  - **Information Technology Specialist**:
+    - Units 1, 2, 11, 12, 15 partially mapped to certifications (Databases, Cloud Computing, Cyber Security, Network Security, Networking, Device Configuration).
+    - More info: https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Overview.
+- **NASSCOM**: Mandatory units for Diploma/Extended Diploma pathways mapped to Web Developers, Junior Software Developers, Software Developers profiles.
+
+**Appendix 2: Microsoft Fundamentals Certifications**
+- **Azure Data Fundamentals (DP-900)**:
+  - Units 1, 10 provide skills/knowledge for working with cloud data.
+  - Unit 1: Examines IT systems’ impact on organizations.
+  - Unit 10: Explores data collection, storage, analysis, and presentation.
+- **Azure Fundamentals (AZ-900)**:
+  - Unit 15 provides skills/knowledge for cloud services via Azure.
+  - Unit 15: Explores cloud-based technologies’ characteristics, benefits, drawbacks.
+- Further info: https://www.microsoft.com/en-us/learning/, https://home.pearsonvue.com/Clients/Microsoft.aspx.
+
+**Appendix 3: Transferable Employability Skills**
+- **Need**: Higher education/employers emphasize transferable skills for undergraduate study/work.
+- **OECD Definition**: Skills are knowledge, attributes, capacities enabling consistent task performance, extendable through learning.
+- **Framework**: Based on National Research Council’s evidence-based framework, including cognitive, intrapersonal, interpersonal skills, literacy, and numeracy.
+- **Skills in IT Context**:
+  - **Cognitive**: Critical thinking, problem-solving, analysis, reasoning, interpretation, decision-making, adaptive learning, executive function, creativity, innovation.
+  - **Intrapersonal**: Adaptability, responsibility, continuous learning, curiosity, initiative, self-direction, perseverance, productivity, self-regulation, ethics, integrity, self-monitoring.
+  - **Interpersonal**: Communication, collaboration, teamwork, cooperation, empathy, negotiation, leadership, assertive communication.
+  - Example: Analysis involves studying interrelationships; ethics involves considerate technology use; communication adapts to audience.
+- Full skill mapping: http://qualifications.pearson.com.
+
+**Appendix 4: Sustainability**
+- **Pearson’s Strategy**: Aligns with UN Sustainable Development Goals (SDGs) focusing on:
+  - Products: Widening learning access, measurable outcomes.
+  - People: Culture of belonging, performance.
+  - Planet: Reducing environmental footprint.
+- **Embedding Sustainability**:
+  - **Mindset**: Learners question sustainability (e.g., energy usage, pollution, climate impact, human resources, global context).
+  - **Skills**: Cross-cutting skills (e.g., problem-solving, critical thinking) applied to sustainability issues.
+  - **Practices**: Sustainable actions (e.g., travel, assignment submission, resource use).
+- **In IT Qualifications**:
+  - Units with sustainability focus: 1, 3, 9, 12, 23.
+  - Assessments/resources emphasize sustainability mindset, skills, practices.
+- **Classroom Activities**:
+  - Case studies: Non-fossil fuels, carbon footprint, sustainable travel, agriculture, art, land repurposing, poverty reduction.
+  - Long-term impact: Material disposal, green energy, organizational culture.
+- More info: https://plc.pearson.com/en-GB/sustainability.
+
+**Appendix 5: Glossary of Terms**
+- **Analyse**: Methodical examination of interrelationships or data trends.
+- **Assess**: Consider factors to conclude on importance/relevance.
+- **Audit**: Examine characteristics/work to identify gaps.
+- **Carry out**: Demonstrate skills/processes.
+- **Compare**: Explain similarities/differences, advantages/disadvantages.
+- **Complete**: Finish tasks with all necessary elements.
+- **Create**: Design/develop/produce evidence (e.g., marketing strategy).
+- **Critically (analyse)**: Judge based on information.
+- **Demonstrate**: Apply knowledge/skills practically.
+- **Describe**: Clear, objective account of features/information.
+- **Design**: Create a blueprint for a product/service/system.
+- **Develop**: Apply skills to create a functioning product/service/system.
+- **Evaluate**: Consider strengths/weaknesses, alternatives, significance, concluding with judgment.
+- **Examine**: Apply knowledge to unfamiliar contexts.
+- **Execute**: Implement a plan/process.
+- **Explain**: Provide reasons/evidence for opinions/arguments.
+- **Explore**: Test/trial skills/knowledge practically.
+- **Implement**: Plan, execute, monitor a project.
+- **Investigate**: Research-based knowledge development.
+- **Justify**: Support opinions with reasons/evidence.
+- **Manage**: Influence an activity/process.
+- **Monitor**: Observe progress/quality systematically.
+- **Optimise**: Improve performance incrementally.
+- **Perform**: Execute tasks for achievement/audience.
+- **Plan**: Create a task sequence for objectives.
+- **Prepare**: Gather information for readiness.
+- **Present**: Articulate information to an audience.
+- **Produce**: Apply skills/knowledge to create evidence.
+- **Recommend**: Suggest suitable options based on knowledge.
+- **Refine**: Improve by minor changes.
+- **Research**: Seek/record/use information to inform progress.
+- **Review**: Formally assess information/events for changes.
+- **Select**: Choose best option based on criteria.
+- **Solve**: Find solutions to problems.
+- **Specify**: State requirements clearly.
+- **Test**: Check quality/performance/reliability.
+- **Understand**: Demonstrate knowledge in defined situations.
+
+**IT-Specific Evidence Terms**
+- **Annotated screenshot**: Screen image with explanatory annotations.
+- **Case study**: Example for applying knowledge to realistic contexts.
+- **Computer program**: Instructions in programming language.
+- **Database structure**: Fields, records, tables.
+- **Data dictionary**: Repository of data information (meaning, relationships, format).
+- **Design documentation**: Plans/diagrams for third-party creation.
+- **Entity-relationship diagram**: Diagrammatical database table relationships.
+- **Evaluate**: Review/synthesize database design/development for quality judgment.
+- **Event log**: Record of computer alerts/notifications/user activity.
+- **Individual project**: Self-directed, large-scale activity (planning, research, outcome, review).
+- **Normalisation**: Organize data into related tables to minimize redundancy.
+- **Physical computing device/system**: IT system devices/components.
+- **Presentation**: Present topic to inform/persuade.
+- **Query**: SQL statement to extract data by criteria.
+- **Report**: Formal document summarizing findings/recommendations; database reports display information simply.
+- **Screenshot**: Image of computer screen.
+- **Test log**: Plan/record program testing outcomes/changes.
+- **User interface**: Intuitive visual interaction with software (forms, buttons).
+- **Video evidence**: Camera-gathered evidence displayed on screen.
+
+**Specification**: Issue 4, March 2024.
+

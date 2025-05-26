@@ -1,0 +1,154 @@
+BTEC Curriculum Structure Overview
+
+The text outlines the curriculum structure for a three-year BTEC Higher National Diploma program in Digital Technologies, divided into Foundation (1st Year) and specialized pathways in Software, Data Analytics, Artificial Intelligence (AI), and Business (2nd and 3rd Years). Each year specifies semester-wise course allocations with total hours (12–15 hours per semester) and subjects, including technical courses (e.g., Programming, Big Data, AI, IoT), professional skills (e.g., Professional Practice, Pitching & Negotiating Skills), and general education (e.g., English, Falsafa, O‘zbekistoning eng yangi tarixi). The curriculum emphasizes practical and transferable skills for digital technology careers.
+
+**1st Year – Foundation**
+- Total Hours: 12 hours per semester
+- Semester 1:
+  - Information Technology Systems: 2 hours
+  - Website Development: 2 hours
+  - Programming: 4 hours
+  - Enterprise in IT: 1 hour
+  - English: 3 hours
+- Semester 2:
+  - Information Technology Systems: 2 hours
+  - BPM (Business Process Management): 1 hour
+  - AI (Artificial Intelligence): 1 hour
+  - Big Data and Business Analytics: 2 hours
+  - Full Stack: 4 hours
+  - English: 2 hours
+
+**2nd Year – Software**
+- Total Hours: 15 hours per semester
+- Semester 1:
+  - Professional Practice: 1 hour
+  - Programming: 5 hours
+  - Big Data & Visualization: 2 hours
+  - Database Design & Development: 4 hours
+  - English: 3 hours
+- Semester 2:
+  - Innovation & Digital Transformation: 1 hour
+  - Cyber Security: 1 hour
+  - Programming: 4 hours
+  - Networking in the Cloud: 2 hours
+  - Software Development Lifecycles: 4 hours
+  - English: 3 hours
+
+**2nd Year – Data Analytics**
+- Total Hours: 15 hours per semester
+- Semester 1:
+  - Professional Practice: 1 hour
+  - Programming: 2 hours
+  - Big Data & Visualization: 2 hours
+  - Database Design & Development: 3 hours
+  - Data Analytics: 4 hours
+  - English: 3 hours
+- Semester 2:
+  - Innovation & Digital Transformation: 1 hour
+  - Cyber Security: 1 hour
+  - Networking in the Cloud: 2 hours
+  - Database Design & Development: 3 hours
+  - Data Analytics: 5 hours
+  - English: 3 hours
+
+**2nd Year – Artificial Intelligence (AI)**
+- Total Hours: 15 hours per semester
+- Semester 1:
+  - Professional Practice: 1 hour
+  - Programming: 4 hours
+  - Big Data & Visualization: 2 hours
+  - Fundamentals of AI & Intelligent Systems: 5 hours
+  - English: 3 hours
+- Semester 2:
+  - Innovation & Digital Transformation: 1 hour
+  - Cyber Security: 1 hour
+  - Cloud Fundamentals: 2 hours
+  - Programming: 3 hours
+  - Fundamentals of AI & Intelligent Systems: 4 hours
+  - Software Development Lifecycles: 1 hour
+  - English: 3 hours
+
+**2nd Year – Business**
+- Total Hours: 15 hours per semester
+- Semester 1:
+  - Professional Practice: 2 hours
+  - Programming: 2 hours
+  - Big Data & Visualization: 2 hours
+  - Management in the Digital Economy: 4 hours
+  - Project Management: 2 hours
+  - English: 3 hours
+- Semester 2:
+  - Innovation & Digital Transformation: 1 hour
+  - Cyber Security: 1 hour
+  - Cloud Fundamentals: 2 hours
+  - Management in the Digital Economy: 5 hours
+  - Project Management: 3 hours
+  - English: 3 hours
+
+**3rd Year – Software**
+- Total Hours: 12 hours per semester
+- Semester 1:
+  - Internet of Things: 2 hours
+  - Risk Analysis & Systems Testing: 1 hour
+  - Advanced Programming: 3 hours
+  - Data Structures & Algorithms: 3 hours
+  - Digital Sustainability: 1 hour
+  - Falsafa: 2 hours
+- Semester 2:
+  - Business Intelligence: 2 hours
+  - Emerging Technologies: 1 hour
+  - Advanced Programming: 3 hours
+  - Data Structures & Algorithms: 3 hours
+  - Pitching & Negotiating Skills: 1 hour
+  - O‘zbekistoning eng yangi tarixi: 2 hours
+
+**3rd Year – Data Analytics**
+- Total Hours: 12 hours per semester
+- Semester 1:
+  - Internet of Things: 2 hours
+  - Risk Analysis & Systems Testing: 1 hour
+  - Applied Analytical Models: 3 hours
+  - Business IT Systems: 3 hours
+  - Digital Sustainability: 1 hour
+  - Falsafa: 2 hours
+- Semester 2:
+  - Business Intelligence: 2 hours
+  - Emerging Technologies: 1 hour
+  - Applied Analytical Models: 3 hours
+  - Business IT Systems: 3 hours
+  - Pitching & Negotiating Skills: 1 hour
+  - O‘zbekistoning eng yangi tarixi: 2 hours
+
+**3rd Year – Artificial Intelligence (AI)**
+- Total Hours: 12 hours per semester
+- Semester 1:
+  - Internet of Things: 2 hours
+  - Risk Analysis & Systems Testing: 1 hour
+  - Application Development: 3 hours
+  - Application Program Interfaces (APIs): 3 hours
+  - Digital Sustainability: 1 hour
+  - Falsafa: 2 hours
+- Semester 2:
+  - Business Intelligence: 2 hours
+  - Emerging Technologies: 1 hour
+  - Application Development: 3 hours
+  - Application Program Interfaces (APIs): 3 hours
+  - Pitching & Negotiating Skills: 1 hour
+  - O‘zbekistoning eng yangi tarixi: 2 hours
+
+**3rd Year – Business**
+- Total Hours: 12 hours per semester
+- Semester 1:
+  - Internet of Things: 2 hours
+  - Digital Tech as Catalyst for Change: 1 hour
+  - Applied Analytical Models: 3 hours
+  - Business IT Systems: 3 hours
+  - Digital Sustainability: 1 hour
+  - Falsafa: 2 hours
+- Semester 2:
+  - Business Intelligence: 2 hours
+  - Emerging Technologies: 1 hour
+  - Applied Analytical Models: 3 hours
+  - Business IT Systems: 3 hours
+  - Pitching & Negotiating Skills: 1 hour
+  - O‘zbekistoning eng yangi tarixi: 2 hours

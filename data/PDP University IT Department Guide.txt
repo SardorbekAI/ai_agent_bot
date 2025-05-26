@@ -1,0 +1,112 @@
+**PDP University IT Department Guidelines for Assessment Overview**
+
+The text outlines the 2024 guidelines for   assessments in the IT Department at PDP University, Tashkent, Uzbekistan, under the Ministry of Higher Education, Science, and Innovation. Compiled by A. Xoshimov, Head of IT Department, the guidelines aim to systematically evaluate students’ theoretical knowledge and practical skills.
+
+1. **Purpose and Objectives**:
+   - **Purpose**: Assess students’ academic performance, identify knowledge gaps, and enhance learning through ongoing  evaluations.
+   - **Objectives**: Evaluate module-specific knowledge, apply individualized approaches, and develop recommendations to improve learning based on results.
+
+2. **Types and Content of Assessments**:
+   - **Written Work**: Tests (multiple-choice/short-answer) and theoretical open-ended questions to assess theory.
+   - **Practical Activities**: Project assignments and programming tasks to test coding and software development skills.
+   - **Oral Assessments**: Question-and-answer sessions and presentations to evaluate comprehension and verbal skills.
+   - **Online Assessments**: Remote tests via LMS and submission of programming tasks for evaluation.
+
+3. **Assessment Criteria and Grading**:
+   - Follows Pearson BTEC standards with three levels:
+     - **Pass**: Meets basic requirements.
+     - **Merit**: High performance exceeding basics.
+     - **Distinction**: Exceptional performance.
+   - Ensures clear, fair, and accurate evaluation.
+
+4. **Rules for Conducting Assessments**:
+   - **Preparation**: Students use study guides, textbooks, and resources.
+   - **Time Limits**: Fixed durations for tasks.
+   - **Fair Evaluation**: Transparent grading based on performance.
+
+5. **Announcement of Results**:
+   - Results published within three working days; students can request reviews.
+   - Instructors provide feedback and improvement recommendations.
+
+6. **Additional Support**:
+   - **Supplementary Classes**: Extra sessions during office hours for struggling students.
+   - **Retake Opportunities**: Available for failed assessments with instructor approval.
+
+7. **Purpose of Guidelines**:
+   - Facilitate objective evaluations, enhance learning, and organize assessments efficiently for students and instructors.
+
+8. **Additional Content**:
+   - Subject-specific assessment content to be appended as supplements.
+
+9. **Approval**:
+   - Signed by Rector J. Mambetkarimov, Vice-Rector A. Davlatov, and Head of IT Department A. Xoshimov (signatures and dates pending).
+
+The guidelines ensure a structured, transparent, and student-focused assessment process aligned with international standards.
+
+
+
+**Institution**: PDP University, under the Ministry of Higher Education, Science, and Innovation of the Republic of Uzbekistan
+**Department**: IT Department
+**Location**: Tashkent, Uzbekistan
+**Year**: 2024
+**Compiled by**: A. Xoshimov, Head of IT Department
+
+**1. Purpose and Objectives**
+- **Purpose**: To assess students’ theoretical knowledge and practical skills through   assessments, evaluate their academic performance, and identify knowledge gaps in a timely manner.
+- **Objectives**:
+  - Evaluate student knowledge for each academic module.
+  - Apply an individualized approach based on students’ mastery levels.
+  - Develop recommendations to improve the learning process based on assessment results.
+
+**2. Types and Content of   Assessments**
+  assessments are designed based on the specific characteristics of each subject to evaluate students’ knowledge and skills. The types include:
+
+- **Written Work**:
+  - **Tests**: Multiple-choice or short-answer questions to assess theoretical knowledge for specific topics.
+  - **Theoretical Questions**: Open-ended questions requiring in-depth responses to evaluate theoretical understanding.
+- **Practical Activities**:
+  - **Project Assignments**: Tasks to test programming skills through developing software or specific projects.
+  - **Programming Tasks**: Practical coding assignments to assess applied programming skills.
+- **Oral Assessments**:
+  - **Question-and-Answer Sessions**: Short oral Q&A to develop verbal skills and gauge topic comprehension.
+  - **Presentations**: Students present on a topic to demonstrate knowledge and reinforce practical understanding.
+- **Online Assessments**:
+  - **Remote Tests**: Students complete tests independently via LMS or other online platforms.
+  - **Submission of Programming Tasks**: Students upload completed work to online systems for evaluation.
+
+**3. Assessment Criteria and Grading**
+- Clear evaluation criteria ensure fair and accurate grading.
+- Assessments follow Pearson BTEC standards, categorized into three levels:
+  - **Pass**: Meets basic requirements.
+  - **Merit**: Exceeds basic requirements with high performance.
+  - **Distinction**: Exceptional performance across all criteria.
+
+**4. Rules for Conducting Assessments**
+- **Preparation**: Students must prepare for each assessment in advance. Recommended materials include study guides, textbooks, and supplementary resources.
+- **Time Limits**: Each assessment type has a fixed duration, and students must complete tasks within this timeframe.
+- **Fair Evaluation**: Assessments are conducted transparently, with grades based solely on performance.
+
+**5. Announcement of Assessment Results**
+- **Publication and Review**: Results are announced within three working days. Students may request a review of their assessment if they have objections.
+- **Feedback**: Instructors provide general feedback on results and offer recommendations for improvement.
+
+**6. Additional Office Hours**
+- **Supplementary Classes**: Instructors offer extra sessions during office hours for students struggling with specific topics.
+- **Retake Opportunities**: Students who fail an assessment may retake it with instructor approval within a specified timeframe.
+
+**Purpose of Guidelines**
+These guidelines facilitate objective evaluation of students’ knowledge and skills, enhancing the learning process. They assist both students and instructors in organizing assessments systematically and efficiently.
+
+**Additional Content**
+Assessment content for each subject will be appended to this document as supplements.
+
+**Approval**
+- PDP University Rector: J. Mambetkarimov
+  - Signature: __________
+  - Date: __________
+- PDP University Vice-Rector: A. Davlatov
+  - Signature: __________
+  - Date: __________
+- Head of IT Department: A. Xoshimov
+  - Signature: __________
+  - Date: __________
